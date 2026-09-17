@@ -1,0 +1,1873 @@
+{
+  "summary": {
+    "blocked": 55,
+    "allowed": 169,
+    "unclear": 9
+  },
+  "verdicts": [
+    {
+      "query": "로블록스",
+      "title": "로블록스 - Roblox",
+      "link": "https://www.roblox.com/ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Minecraft 공식 사이트에 오신 것을 환영합니다",
+      "link": "https://www.minecraft.net/ko-kr",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마인크래프트",
+      "title": "마인크래프트 게임",
+      "link": "https://www.crazygames.com/kr/t/minecraft",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "로블록스",
+      "title": "Roblox - Windows - Windows에서 무료로 다운로드 및 플레이",
+      "link": "https://apps.microsoft.com/detail/9pmf91n3lz3m?hl=ko-KR&gl=NA",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "원신",
+      "title": "원신——모험이 가득한 신비한 세계로 떠나자",
+      "link": "https://genshin.hoyoverse.com/ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Welcome to the Minecraft Official Site | Minecraft",
+      "link": "https://www.minecraft.net/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "로블록스",
+      "title": "소개",
+      "link": "https://about.roblox.com/ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "발로란트",
+      "title": "발로란트",
+      "link": "https://playvalorant.com/ko-kr/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Sign In or Sign Up",
+      "link": "https://www.minecraft.net/en-us/msaprofile",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "브롤스타즈",
+      "title": "브롤스타즈",
+      "link": "https://www.youtube.com/channel/UClJspSpzADMROqOW9HLHaoA",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "발로란트",
+      "title": "발로란트 지원",
+      "link": "https://support.riotgames.com/ko-kr/valorant",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)"
+    },
+    {
+      "query": "로블록스",
+      "title": "로블록스 (Roblox) - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "브롤스타즈",
+      "title": "Brawl Stars - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "리그오브레전드",
+      "title": "리그 오브 레전드",
+      "link": "https://www.leagueoflegends.com/ko-kr/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "리그오브레전드",
+      "title": "League of Legends Homepage",
+      "link": "https://www.leagueoflegends.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "원신",
+      "title": "원신",
+      "link": "https://www.youtube.com/@Genshinimpact_KR",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "로블록스",
+      "title": "Roblox",
+      "link": "https://namu.wiki/w/Roblox",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "브롤스타즈",
+      "title": "브롤스타즈",
+      "link": "https://namu.wiki/w/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "리그오브레전드",
+      "title": "라이엇 게임즈",
+      "link": "https://www.riotgames.com/ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "포트나이트",
+      "title": "포트나이트 | 무료 다운로드 및 플레이 - Epic Games Store",
+      "link": "https://store.epicgames.com/p/fortnite?lang=ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "포트나이트",
+      "title": "포트나이트 | 무료 다운로드 및 플레이 - Epic Games Store",
+      "link": "https://store.epicgames.com/all-experiences/fortnite?lang=ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "원신",
+      "title": "원신",
+      "link": "https://namu.wiki/w/%EC%9B%90%EC%8B%A0",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "브롤스타즈",
+      "title": "브롤스타즈 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EB%B8%8C%EB%A1%A4%EC%8A%A4%ED%83%80%EC%A6%88",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "발로란트",
+      "title": "발로란트 (@valorantkr)",
+      "link": "https://www.instagram.com/valorantkr/?hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "마인크래프트",
+      "title": "마인크래프트",
+      "link": "https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "발로란트",
+      "title": "발로란트 공식 유튜브 채널",
+      "link": "https://www.youtube.com/@VALORANTkr",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "리그오브레전드",
+      "title": "리그 오브 레전드(롤) (@leagueoflegendskorea)",
+      "link": "https://www.instagram.com/leagueoflegendskorea/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "발로란트",
+      "title": "발로란트",
+      "link": "https://namu.wiki/w/%EB%B0%9C%EB%A1%9C%EB%9E%80%ED%8A%B8",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "배틀그라운드",
+      "title": "배틀그라운드 | 카카오게임즈",
+      "link": "https://pubg.kakaogames.com/pubg/index",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "카트라이더",
+      "title": "카트라이더 - Nexon",
+      "link": "https://kart.nexon.com/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "원신",
+      "title": "원신 (@genshinimpactkr) / X",
+      "link": "https://x.com/genshinimpactkr",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "FC온라인",
+      "title": "EA SPORTS FC ONLINE | FC온라인 공식 홈페이지",
+      "link": "http://fconline.nexon.com/main/index",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "FC온라인",
+      "title": "EA SPORTS FC ONLINE - Nexon",
+      "link": "https://fconline.nexon.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "배틀그라운드",
+      "title": "배틀그라운드 공식카페 - pubg: battlegrounds",
+      "link": "https://cafe.naver.com/playbattlegrounds",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "브롤스타즈",
+      "title": "브롤스타즈",
+      "link": "https://store.supercell.com/ko/brawlstars",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "리그오브레전드",
+      "title": "리그 오브 레전드",
+      "link": "https://namu.wiki/w/%EB%A6%AC%EA%B7%B8%20%EC%98%A4%EB%B8%8C%20%EB%A0%88%EC%A0%84%EB%93%9C",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "FC온라인",
+      "title": "EA SPORTS FC ONLINE - Nexon",
+      "link": "http://events.fconline.nexon.com/240627/SpecialOne",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "포트나이트",
+      "title": "포트나이트 - 나무위키",
+      "link": "https://namu.wiki/w/%ED%8F%AC%ED%8A%B8%EB%82%98%EC%9D%B4%ED%8A%B8",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "배틀그라운드",
+      "title": "PUBG: BATTLEGROUNDS - 배틀그라운드",
+      "link": "https://namu.wiki/w/PUBG:%20BATTLEGROUNDS",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "카트라이더",
+      "title": "크레이지레이싱 카트라이더",
+      "link": "https://www.youtube.com/@kartrider_channel",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "카트라이더",
+      "title": "카트라이더 러쉬플러스",
+      "link": "https://play.google.com/store/apps/details?id=com.nexon.kart&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "카트라이더",
+      "title": "크레이지레이싱 카트라이더",
+      "link": "https://namu.wiki/w/%ED%81%AC%EB%A0%88%EC%9D%B4%EC%A7%80%EB%A0%88%EC%9D%B4%EC%8B%B1%20%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "메이플스토리",
+      "title": "공홈 - 메이플스토리 - Nexon",
+      "link": "https://maplestory.nexon.com/home/main",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "FC온라인",
+      "title": "EA SPORTS FC 온라인",
+      "link": "https://www.youtube.com/channel/UC9otskL_kd-0CDib_5Lj-mQ",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "던파",
+      "title": "액션쾌감!!! 던전앤파이터!",
+      "link": "https://df.game.naver.com/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "던파",
+      "title": "액션쾌감!!! 던전앤파이터!",
+      "link": "https://df.nexon.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "메이플스토리",
+      "title": "메이플스토리",
+      "link": "https://www.youtube.com/@MapleStoryKR",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "스팀",
+      "title": "Steam에 오신 것을 환영합니다",
+      "link": "https://store.steampowered.com/?l=koreana",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "스팀",
+      "title": "Steam, The Ultimate Online Game Platform",
+      "link": "https://store.steampowered.com/about/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "메이플스토리",
+      "title": "[메이플스토리] 2026년 8월 업데이트",
+      "link": "https://maplestory.nexon.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "배틀그라운드",
+      "title": "PUBG: 배틀그라운드",
+      "link": "https://www.pubg.com/ko/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "메이플스토리",
+      "title": "메이플스토리 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "원신",
+      "title": "원신",
+      "link": "https://www.hoyolab.com/creatorCollection/10041962",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "메이플스토리",
+      "title": "메이플스토리",
+      "link": "https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "에픽게임즈",
+      "title": "에픽게임즈: Epic Games Store | PC 게임, 모드, DLC 등을 ...",
+      "link": "https://store.epicgames.com/?lang=ko",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "던파",
+      "title": "던파TV(던전앤파이터)",
+      "link": "https://www.youtube.com/@dnfilive",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "던파",
+      "title": "던전앤파이터",
+      "link": "https://namu.wiki/w/%EB%8D%98%EC%A0%84%EC%95%A4%ED%8C%8C%EC%9D%B4%ED%84%B0",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드",
+      "title": "Discord - Group Chat That's All Fun & Games",
+      "link": "https://discord.com/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "FC온라인",
+      "title": "다운로드·설치 | FC온라인 자료실 - Nexon",
+      "link": "http://fconline.nexon.com/pds/download",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "스팀",
+      "title": "Steam",
+      "link": "https://namu.wiki/w/Steam",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "스팀",
+      "title": "Steam - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.valvesoftware.android.steam.community",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드",
+      "title": "디스코드 뜻과 기본 사용법 초보자용 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/kbnavi/223634829243",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 로블록스",
+      "title": "학교에서 로블록스 차단 - 맥 : r/RobloxHelp",
+      "link": "https://www.reddit.com/r/RobloxHelp/comments/1jgx2ty/school_blocked_roblox_mac/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "에픽게임즈",
+      "title": "에픽게임즈 | 홈페이지",
+      "link": "https://www.epicgames.com/site/home?lang=ko",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "학교에서 로블록스",
+      "title": "교실 설정하기 | 설명서 - Roblox 크리에이터 허브",
+      "link": "https://create.roblox.com/docs/ko-kr/education/educator-onboarding/3-setting-up-a-roblox-classroom",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "에픽게임즈",
+      "title": "에픽게임즈",
+      "link": "https://namu.wiki/w/%EC%97%90%ED%94%BD%EA%B2%8C%EC%9E%84%EC%A6%88",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 로블록스",
+      "title": "학교 시스템 속여서 ROBLOX 하기",
+      "link": "https://www.reddit.com/r/roblox/comments/evecmz/cheating_my_schools_system_to_play_roblox/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "카트라이더",
+      "title": "카트라이더: 드리프트",
+      "link": "https://ko.wikipedia.org/wiki/%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94:_%EB%93%9C%EB%A6%AC%ED%94%84%ED%8A%B8",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 게임하기",
+      "title": "학교에서 학생들이 게임을 할 수 있는 사이트를 만들었어요.",
+      "link": "https://www.reddit.com/r/phaser/comments/1r3ogim/i_built_a_site_that_lets_students_play_games_at/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "포트나이트",
+      "title": "지금 포트나이트를 다운로드하고 설치하세요",
+      "link": "https://www.fortnite.com/download?lang=ko",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "포트나이트",
+      "title": "포트나이트 | 무료 플레이 크로스 플랫폼 게임 - 포트나이트",
+      "link": "https://www.fortnite.com/?lang=ko",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "학교에서 로블록스",
+      "title": "학교 크롬북에서 로블록스 하는 방법 (2026 가이드)",
+      "link": "https://www.exitlag.com/blog/ko/how-to-play-roblox-on-school-chromebook/",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "배틀그라운드",
+      "title": "PUBG: 배틀그라운드",
+      "link": "https://www.krafton.com/games/battlegrounds/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 게임하기",
+      "title": "학교 인터넷 뚫는법(카카오톡, 롤 쌉가능) - SoftEther VPN",
+      "link": "https://blog.naver.com/jameschoie/222189184666",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 게임하기",
+      "title": "수업 시간에 심심할 때 하기 좋은 학교 컴퓨터 게임 뭐 있어?",
+      "link": "https://www.reddit.com/r/school_memes/comments/1nzeol1/whats_the_best_school_computer_game_for_when_your/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 게임하기",
+      "title": "학생들이 학교에서 게임을 할 수 있는 오픈소스 사이트를 ...",
+      "link": "https://www.reddit.com/r/SoloDevelopment/comments/1ppqe5h/i_built_an_opensource_site_that_lets_students/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "수업시간에 할 게임",
+      "title": "수업 때 자주 하는 게임이 뭐예요? : r/SubstituteTeachers",
+      "link": "https://www.reddit.com/r/SubstituteTeachers/comments/1sz4ija/what_are_your_go_to_class_games/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 로블록스",
+      "title": "학교 와이파이로 로블록스 하는 방법 - 네이버 지식iN",
+      "link": "https://m.kin.naver.com/qna/dirs/213/docs/441521711",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드",
+      "title": "Discord - 디스코드",
+      "link": "https://namu.wiki/w/Discord",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "수업시간에 할 게임",
+      "title": "수업 시간에 할 모바일 게임 필요해 : r/gamingsuggestions",
+      "link": "https://www.reddit.com/r/gamingsuggestions/comments/1nnkjp4/need_a_mobile_game_to_play_while_in_class/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 게임",
+      "title": "크롬북용 플레이 스토어 게임? : r/chromeos",
+      "link": "https://www.reddit.com/r/chromeos/comments/1jts3qo/play_store_games_for_chromebook/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교에서 게임하기",
+      "title": "작품 - 학교에서준 컴퓨터로 게임하는법!(이론상 가능)",
+      "link": "https://playentry.org/project/63ed72e5a60cd1004adb6277",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드",
+      "title": "Discord - 대화, 플레이, 어울리기 - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.discord&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드",
+      "title": "디스코드 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EB%94%94%EC%8A%A4%EC%BD%94%EB%93%9C",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "수업시간에 할 게임",
+      "title": "학교에서 몰래 하기 좋은 게임, 설치 없이 할 수 있는 사이트 추천",
+      "link": "https://m.blog.naver.com/whimwhim_/222769256134",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "에픽게임즈",
+      "title": "Epic Games Store (@EpicGames) ...",
+      "link": "https://x.com/EpicGames",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "차단 안 된 게임 사이트",
+      "title": "막힌 게임 사이트! : r/highschool",
+      "link": "https://www.reddit.com/r/highschool/comments/1hudbpk/unblocked_games_site/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "수업시간에 할 게임",
+      "title": "PIKU - 수업시간 딴짓 월드컵",
+      "link": "https://www.piku.co.kr/w/6Cr4Vt",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "차단 안 된 게임 사이트",
+      "title": "막히지 않는 게임 웹사이트 추천 : r/highschool",
+      "link": "https://www.reddit.com/r/highschool/comments/1ndlwg7/good_unblocked_gaming_websites/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "차단 안 된 게임 사이트",
+      "title": "차단 해제된 게임 웹사이트 : r/vibecoding",
+      "link": "https://www.reddit.com/r/vibecoding/comments/1r8r04y/unblocked_game_website/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "수업시간에 할 게임",
+      "title": "수업 중에 몰래 하기 좋은 구글 게임 모음 지루한 강의시간 ...",
+      "link": "https://www.instagram.com/p/DHU8yKSPopd/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 컴퓨터 게임",
+      "title": "학교 컴퓨터실 추억의 고전게임 TOP 10 - 네이버 블로그",
+      "link": "https://m.blog.naver.com/PostView.nhn?isHttpsRedirect=true&blogId=emptydrakesimbajj&logNo=221662420240",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 컴퓨터 게임",
+      "title": "학교 컴퓨터실에서 게임하기 웹사이트에서 게임 할수있는 ...",
+      "link": "https://programpia.tistory.com/16",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "차단 안 된 게임 사이트",
+      "title": "웹 사이트를 차단 해제하는 방법",
+      "link": "https://www.hotspotshield.com/ko/what-is-a-vpn/unblock-websites/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "학교 컴퓨터 게임",
+      "title": "Top 10 Nostalgic Games We Secretly Played in the School ...",
+      "link": "https://www.youtube.com/watch?v=8s4iIpPo95c",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "classroom 6x",
+      "title": "Classroom 6x – Play Free Unblocked Games",
+      "link": "https://classroom-6x.io/home/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "에픽게임즈",
+      "title": "Epic Games | Home",
+      "link": "https://www.epicgames.com/site/home",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "차단 안 된 게임 사이트",
+      "title": "유해 사이트",
+      "link": "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%20%EC%82%AC%EC%9D%B4%ED%8A%B8",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 게임",
+      "title": "Chromebook에서 게임 기능 사용하기",
+      "link": "https://support.google.com/chromebook/answer/12313257?hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "스팀",
+      "title": "스팀 (서비스) - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EC%8A%A4%ED%8C%80_(%EC%84%9C%EB%B9%84%EC%8A%A4)",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "classroom 6x",
+      "title": "Classroom 6x Unblocked Games for an Epic Educational ...",
+      "link": "https://www.youtube.com/watch?v=gp7D_Uw1Luc",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "classroom 6x",
+      "title": "Classroom 6x - Unblocked Games",
+      "link": "https://sites.google.com/view/classroom6x/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "poki",
+      "title": "Free Online Games at Poki - Play Now!",
+      "link": "https://poki.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "classroom 6x",
+      "title": "Classroom 6x Unblocked Games - Chrome Web Store",
+      "link": "https://chromewebstore.google.com/detail/classroom-6x-unblocked-ga/aeejjiejlflnopfmojdcmebmedaomiln",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "ubg100",
+      "title": "UGB100",
+      "link": "https://ugb100.github.io/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 게임",
+      "title": "크롬북에서 플레이할 수 있는 최고의 게임 TOP10",
+      "link": "https://99bugs.tistory.com/436",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "crazygames",
+      "title": "Free Online Games on CrazyGames | Play Now!",
+      "link": "https://www.crazygames.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "classroom 6x",
+      "title": "Classroom x6 | unblocked games",
+      "link": "https://sites.google.com/view/classroomx6",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "ubg100",
+      "title": "UBG100",
+      "link": "https://100uuu.github.io/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "던파",
+      "title": "던전앤파이터 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EB%8D%98%EC%A0%84%EC%95%A4%ED%8C%8C%EC%9D%B4%ED%84%B0",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 컴퓨터 게임",
+      "title": "학교 컴퓨터실에 있었던 추억의 고전게임",
+      "link": "https://gooddumpling.tistory.com/32",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "crazygames",
+      "title": "Crazy Games 🤪 - Play Online for Free!",
+      "link": "https://poki.com/en/crazy-games",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "poki",
+      "title": "Poki (@poki__games) • Instagram photos and videos",
+      "link": "https://www.instagram.com/poki__games/?hl=en",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "poki",
+      "title": "Poki",
+      "link": "https://www.youtube.com/poki",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "ubg100",
+      "title": "ubg100",
+      "link": "https://www.youtube.com/hashtag/ubg100",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "poki",
+      "title": "Poki - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.poki.playground&hl=en_US",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "ubg100",
+      "title": "Ubg100",
+      "link": "https://www.tiktok.com/discover/ubg100",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "now.gg",
+      "title": "Play Games Online on now.gg - YouTube",
+      "link": "https://www.youtube.com/playlist?list=PLslVhzMNoj6jMjzH63NKRdjJZrgX16RNd",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 와이파이 뚫는법",
+      "title": "대학교 와이파이 제한 우회 : r/HowToHack",
+      "link": "https://www.reddit.com/r/HowToHack/comments/yz81ct/bypass_universitys_wifi_limit/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "crazygames",
+      "title": "CrazyGames: Play 2500+ Games - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.crazygames.crazygamesapp&hl=en_US",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 와이파이 뚫는법",
+      "title": "학교 와이파이(WIFI) 컴퓨터에서 무료로 우회해 사용하는 방법 ...",
+      "link": "https://m.blog.naver.com/pmj6968/223384854101",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "crazygames",
+      "title": "CrazyGames",
+      "link": "https://www.youtube.com/channel/UC9CLWvGbT56My3etOT4tSdw",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 차단 뚫기",
+      "title": "학교 VPN 차단을 우회하려고 하는데",
+      "link": "https://www.reddit.com/r/VPN/comments/1pcuq1e/trying_to_bypass_schools_vpn_block/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "now.gg",
+      "title": "Now Play - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=gg.now.client.android",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "now.gg",
+      "title": "How To Play Roblox And Talkie On Now.gg - YouTube",
+      "link": "https://www.youtube.com/watch?v=w2NDrGCpUV4",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 차단 해제",
+      "title": "학교 크롬북에서 웹사이트 막힌 거 어떻게 풀어요? : r/VPN",
+      "link": "https://www.reddit.com/r/VPN/comments/11450n4/how_do_i_unblock_websites_on_my_school_chromebook/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "crazygames",
+      "title": "CrazyGames",
+      "link": "https://en.wikipedia.org/wiki/CrazyGames",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 와이파이 뚫는법",
+      "title": "학교에서 와맆하는 법 - 와일드리프트 채널",
+      "link": "https://arca.live/b/wildrifts/91315561",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "학교 차단 뚫기",
+      "title": "VPN으로 학교 와이파이 차단 해제",
+      "link": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4U_FTGnz9GXugMfVZpZt90SBM_f-4LfWGoqDyEXibJwu1PoNOzN",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "학교 와이파이 뚫는법",
+      "title": "학교 인터넷 뚫는법(카카오톡, 롤 쌉가능) - SoftEther VPN 설치 ...",
+      "link": "https://quddydwjswk.tistory.com/entry/%ED%95%99%EA%B5%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EB%9A%AB%EB%8A%94%EB%B2%95%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%A1%A4-%EC%8C%89%EA%B0%80%EB%8A%A5-SoftEther-VPN",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 차단 해제",
+      "title": "웹사이트 차단 해제 방법",
+      "link": "https://surfshark.com/ko/blog/unblock-websites?srsltid=AU7gw4V81eybBjXN5B2310JLNwtvA4cfALQX4eQdl2IjWOk4-O6NKTBI",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "학교 와이파이 뚫는법",
+      "title": "학교 인터넷 차단 뚫는 법: VPN으로 쉽게 해결하는 방법 - 대우",
+      "link": "https://bloggerwiki.tistory.com/entry/%ED%95%99%EA%B5%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%B0%A8%EB%8B%A8-%EB%9A%AB%EB%8A%94-%EB%B2%95-VPN%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "vpn 추천",
+      "title": "요즘 제일 좋은 VPN이 뭐임? : r/pcmasterrace",
+      "link": "https://www.reddit.com/r/pcmasterrace/comments/1s4evqc/whats_the_best_vpn_these_days/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "now.gg",
+      "title": "now.gg - LinkedIn",
+      "link": "https://www.linkedin.com/company/nowgginc",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "vpn 추천",
+      "title": "해외 VPN 비교 추천, 결국은 돌고돌아 NordVPN : 네이버 블로그",
+      "link": "https://m.blog.naver.com/rabbitbag/224292038057",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 차단 해제",
+      "title": "크롬 사이트 차단 해제 이거 어떻게 하죠 - 네이버 지식iN",
+      "link": "https://m.kin.naver.com/qna/dirs/10201/docs/447825349",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 차단 해제",
+      "title": "크롬(Chrome) 브라우저에서 팝업 차단/ 해제 방법",
+      "link": "https://www.samsungsvc.co.kr/solution/996238",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "vpn 추천",
+      "title": "최고의 한국용 VPN 추천 (무료 & 가성비)",
+      "link": "https://www.top10vpn.com/ko/best-vpn/korea/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "vpn 추천",
+      "title": "NordVPN: 2026년 속도와 보안을 위한 최고의 VPN 서비스",
+      "link": "https://nordvpn.com/ko/?srsltid=AU7gw4X4zvy4ZDD6HZ6_1SaLmm_iDbext0ZSKrssNQhR20eyAFIvxfsA",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 다운로드",
+      "link": "https://nordvpn.com/ko/download/?srsltid=AU7gw4WGShkG-aLQDcyTChXutjvsBiYgtWiHmSrbPIPgfV632Rv3Z3Ii",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "웹 프록시",
+      "title": "ProxySite.com - 무료 웹 프록시 사이트",
+      "link": "https://www.proxysite.com/ko/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "웹 프록시",
+      "title": "특정 사이트용 웹 프록시 : r/unRAID",
+      "link": "https://www.reddit.com/r/unRAID/comments/17bvfsj/web_proxy_for_specific_sites/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "poki",
+      "title": "Poki",
+      "link": "https://x.com/Poki?lang=en",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 크롬용 - VPN 프록시 VeePN - Chrome 웹 스토어",
+      "link": "https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "now.gg",
+      "title": "Play Online Games for Free | now.gg Mobile Cloud",
+      "link": "https://now.gg/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "우회 사이트",
+      "title": "해외사이트 접속, 아이피 우회 방법 간단히 따라하기",
+      "link": "https://m.blog.naver.com/webadcomm/222102980189",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 vpn",
+      "title": "Free VPN Super™ -Fast & Secure - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=con.hotspot.vpn.free.master&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "우회 사이트",
+      "title": "가장 진보된 무료 프록시이자 모든 프록시 목록 중 최고의 선택",
+      "link": "https://www.croxyproxy.com/_ko/proxy",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "croxyproxy",
+      "title": "CroxyProxy: Free web proxy and a cutting-edge online proxy",
+      "link": "https://www.croxyproxy.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "학교 차단 뚫기",
+      "title": "학교에서 차단된 사이트 우회하는 법?",
+      "link": "https://proxyorb.com/ko/blog/school-unblock-websites-student-guide",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "croxyproxy",
+      "title": "Der fortschrittlichste sichere und kostenlose Web-Proxy",
+      "link": "https://www.croxyproxy.net/_de/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "proxysite",
+      "title": "ProxySite.com - Free Web Proxy Site",
+      "link": "https://www.proxysite.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "웹 프록시",
+      "title": "프록시 서버",
+      "link": "https://namu.wiki/w/%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "proxysite",
+      "title": "ProxySite Free Web Proxy - NaProxy",
+      "link": "https://www.naproxy.com/proxysite/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "우회 사이트",
+      "title": "무료 프록시 사이트 및 온라인 우회사이트",
+      "link": "https://proxyorb.com/ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "croxyproxy",
+      "title": "CroxyProxy Free Web Proxy",
+      "link": "https://www.naproxy.com/croxyproxy/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "웹 프록시",
+      "title": "무료 웹 프록시 및 최첨단 온라인 프록시",
+      "link": "https://www.croxyproxy.com/_ko/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "hide.me",
+      "title": "World's Fastest VPN and Privacy Protection | hide.me",
+      "link": "https://hide.me/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "proxysite",
+      "title": "ProxySite.com Reviews in 2026 - SourceForge",
+      "link": "https://sourceforge.net/software/product/ProxySite.com/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 차단 해제",
+      "title": "사이트 설정 권한 변경하기 - 컴퓨터 - Chromebook 고객센터",
+      "link": "https://support.google.com/chromebook/answer/114662?hl=ko&co=GENIE.Platform%3DDesktop",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 웹툰 사이트",
+      "title": "네이버 웹툰",
+      "link": "https://m.comic.naver.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "hide.me",
+      "title": "hide.me VPN: The Privacy Guard - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=hideme.android.vpn",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 웹툰 사이트",
+      "title": "카카오웹툰 - KAKAO WEBTOON",
+      "link": "https://webtoon.kakao.com/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "무료 웹툰 사이트",
+      "title": "무료 - 웹툰",
+      "link": "https://www.bomtoon.com/bom/comic/free",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "hide.me",
+      "title": "hide.me Proxy - Chrome Web Store",
+      "link": "https://chromewebstore.google.com/detail/hideme-proxy/ohjocgmpmlfahafbipehkhbaacoemojp",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "뉴토끼",
+      "title": "뉴토끼 - 최신 웹툰 미리보기",
+      "link": "https://newtoki1.org/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "hide.me",
+      "title": "hide.me VPN - App Store - Apple",
+      "link": "https://apps.apple.com/us/app/hide-me-vpn/id953040671",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "hide.me",
+      "title": "hide.me VPN for Windows (Windows) - Download",
+      "link": "https://hidemevpnforwindows.en.softonic.com/",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=412"
+    },
+    {
+      "query": "뉴토끼",
+      "title": "뉴토끼 돌아왔어? : r/mangapiracy - Reddit",
+      "link": "https://www.reddit.com/r/mangapiracy/comments/1t5913x/is_newtoki_back/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "뉴토끼",
+      "title": "뉴토끼 - 나무위키",
+      "link": "https://namu.wiki/w/%EB%89%B4%ED%86%A0%EB%81%BC",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 웹툰 사이트",
+      "title": "2026년을 대비한 무료웹툰사이트 8곳 추천",
+      "link": "https://www.videoproc.com/kr/blog/free-webtoon-sites.htm",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "croxyproxy",
+      "title": "CroxyProxy: The most advanced secure and free web proxy",
+      "link": "https://www.croxyproxy.rocks/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "뉴토끼",
+      "title": "'뉴토끼' 새 버전, 당황스럽다... 불법 사이트가 훨씬 세련된 모습으로 부활",
+      "link": "https://www.wikitree.co.kr/articles/1135682",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "뉴토끼",
+      "title": "뉴토끼 홈페이지 - Instagram",
+      "link": "https://www.instagram.com/popular/%EB%89%B4%ED%86%A0%EB%81%BC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "마나토끼",
+      "title": "마나토끼 폐쇄는 네이버 웹툰(웹툰엔터테인먼트)에게 정말 호재일",
+      "link": "https://contents.premium.naver.com/richplatform/therichplatform/contents/260428141552622tn",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "누누티비",
+      "title": "누누티비",
+      "link": "https://nooo32.tv/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마나토끼",
+      "title": "국내 최대 불법 만화 사이트 '마나토끼' 운영자…일본 귀화 ...",
+      "link": "https://v.daum.net/v/20260628142945427",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "마나토끼",
+      "title": "일일툰",
+      "link": "https://namu.wiki/w/%EC%9D%BC%EC%9D%BC%ED%88%B0",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "누누티비",
+      "title": "누누티비 - 영화 드라마",
+      "link": "https://noonootv62.store/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "마나토끼",
+      "title": "\"일본 귀화까지 했는데…\" '마나토끼' 운영자 검거｜ TJB 대전 ...",
+      "link": "https://www.youtube.com/watch?v=JKAII1MjXH4",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "무료 웹툰 사이트",
+      "title": "영등포청소년문화의집  영청문",
+      "link": "https://ssoul.org/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "마나토끼",
+      "title": "마나토키(Manatoki) 최신 주소 | 대체 사이트, 2026 최신 정보",
+      "link": "https://manatoki.click/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "누누티비",
+      "title": "$5 Trillion in Content Damages… 'Illegal Streaming' Noonoo ...",
+      "link": "https://www.youtube.com/shorts/3qRpqhy-FCs",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "proxysite",
+      "title": "ProxySite Free Web Proxy - ProxyShare",
+      "link": "https://proxyshare.com/proxysite/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "croxyproxy",
+      "title": "CroxyProxy Free Web Proxy - Youtube Unblocked",
+      "link": "https://proxyshare.com/croxyproxy/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "애니 무료보기",
+      "title": "라프텔 - 애니 추천 · 애니 스트리밍 · 애니 굿즈",
+      "link": "https://laftel.net/",
+      "check_status": "ssl_error",
+      "verdict": "blocked",
+      "evidence": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)"
+    },
+    {
+      "query": "누누티비",
+      "title": "누누티비 - 영화 드라마 OTT 감상",
+      "link": "https://noonootv13s.store/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "티비위키",
+      "title": "티비위키 - 나무위키:대문",
+      "link": "https://namu.wiki/w/%ED%8B%B0%EB%B9%84%EC%9C%84%ED%82%A4",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "애니 무료보기",
+      "title": "애니 보기에 젤 좋은 무료 온라인 서비스가 뭐임? : r/anime",
+      "link": "https://www.reddit.com/r/anime/comments/1mite7r/whats_the_best_free_online_service_for_watching/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "애니 무료보기",
+      "title": "애니박스",
+      "link": "https://www.jbox.co.kr/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "누누티비",
+      "title": "누누티비 :: 최신영화 드라마 OTT 보기",
+      "link": "https://noonootvk18.store/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "애니 무료보기",
+      "title": "애니 자막",
+      "link": "https://linkkf.tv/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "텔레그램 웹",
+      "title": "텔레그램 pc 다운로드 및 사용법, 웹 버전도 존재!",
+      "link": "https://blog.naver.com/skdaksdptn/222876598599",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "티비위키",
+      "title": "티비위키 TVWIKI - 드라마 영화 OTT",
+      "link": "https://tvwikis29.store/",
+      "check_status": "http_4xx",
+      "verdict": "unclear",
+      "evidence": "code=403"
+    },
+    {
+      "query": "텔레그램 웹",
+      "title": "Telegram Web",
+      "link": "https://webogram.org/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "텔레그램 웹",
+      "title": "텔레그램 한글사이트",
+      "link": "https://www.telegram.pe.kr/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "텔레그램 웹",
+      "title": "텔레그램 공식 앱 Telegram",
+      "link": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "티비위키",
+      "title": "티비위키 :: 최신영화 드라마 OTT 보기",
+      "link": "https://tvwikik18.store/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "틱톡",
+      "title": "틱톡 TikTok Korea (@tiktok_kr)",
+      "link": "https://www.tiktok.com/@tiktok_kr",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "애니 무료보기",
+      "title": "2026 년 최신 Top 10 무료 애니메이션 추천 사이트 - 아이마이폰",
+      "link": "https://kr.imyfone.com/make-video/free-animation-site/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "틱톡",
+      "title": "트렌드의 시작, 틱톡",
+      "link": "https://www.tiktok.com/ko-KR/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "틱톡",
+      "title": "TikTok - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&listing=sharing_descdeter&hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "틱톡",
+      "title": "틱톡 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%ED%8B%B1%ED%86%A1",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "틱톡",
+      "title": "TikTok",
+      "link": "https://namu.wiki/w/TikTok",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "인스타그램 릴스",
+      "title": "인스타그램 릴스, 도대체 뭐길래? - 네이버 블로그",
+      "link": "https://m.blog.naver.com/mjy9940/223466609007",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "인스타그램 릴스",
+      "title": "릴스 | Instagram 고객 센터",
+      "link": "https://help.instagram.com/270447560766967/?helpref=topq&locale=ko_KR",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "인스타그램 릴스",
+      "title": "인스타그램 릴스",
+      "link": "https://namu.wiki/w/%EC%9D%B8%EC%8A%A4%ED%83%80%EA%B7%B8%EB%9E%A8%20%EB%A6%B4%EC%8A%A4",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "인스타그램 릴스",
+      "title": "릴스연결 기능, 어떻게 활용해야 하나요? 인스타그램에 새로 ...",
+      "link": "https://www.instagram.com/reel/DOLiPmIExEW/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "유튜브 쇼츠",
+      "title": "YouTube Shorts",
+      "link": "https://www.youtube.com/playlist?list=PLmWosSc-0BYJ0NlgRXUclyM0hvDtrxV6t",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "유튜브 쇼츠",
+      "title": "Shorts",
+      "link": "https://www.youtube.com/@YouTube/shorts",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "유튜브 쇼츠",
+      "title": "YouTube Shorts - 유튜브",
+      "link": "https://namu.wiki/w/YouTube%20Shorts",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "인스타그램 릴스",
+      "title": "Instagram 릴스: 짧은 동영상 만들기 및 공유하기",
+      "link": "https://about.instagram.com/ko-kr/features/reels",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "토렌트 사이트",
+      "title": "추천 토렌트 사이트 순위를 공유합니다 (ver.2026.9.11)",
+      "link": "https://jaewook.net/archives/2613",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "토렌트 사이트",
+      "title": "토렌트 사이트 추천 좀 해줘요, 제발 : r/CrackSupport",
+      "link": "https://www.reddit.com/r/CrackSupport/comments/16bv43v/torrent_site_recommendations_please/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "토렌트 사이트",
+      "title": "[토렌트 사이트 추천] 토렌트 추천 사이트 ...",
+      "link": "https://blog.naver.com/hn03049/110110059749",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드 웹",
+      "title": "Discord",
+      "link": "https://discord.com/store",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드 웹",
+      "title": "디스코드 웹 버전은 어떻게 접속해서 웹 브라우저로 ...",
+      "link": "https://www.reddit.com/r/discordapp/comments/nxl8ng/how_do_i_access_the_discord_web_version_to_access/?tl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "토렌트 사이트",
+      "title": "토렌트 다른 사이트 알려드릴께요ㅋㅋ 다양한 유틸도 있어요 ...",
+      "link": "https://dumok.net/repository/19817",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드 웹",
+      "title": "[초보 디스코드 TIP!] 웹 디스코드 (디스코드 웹 브라우저)",
+      "link": "https://blog.naver.com/alscks140/223278591860",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "토렌트 사이트",
+      "title": "해외 무료 토렌트 사이트 순위 2023",
+      "link": "https://www.facebook.com/media/set/?set=a.122105371790079984",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "디스코드 웹",
+      "title": "[ 나도 할 수 이따! ] 디스코드 웹 브라우저에서 사용하기!",
+      "link": "https://neony.tistory.com/23",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "유튜브 쇼츠",
+      "title": "유튜브 쇼츠 만들기: 무료 쇼츠 영상 제작·편집 | 캔바 ...",
+      "link": "https://www.canva.com/ko_kr/create/short-videos/",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "유튜브 쇼츠",
+      "title": "YouTube Shorts 제작 시작하기 - YouTube 고객센터",
+      "link": "https://support.google.com/youtube/answer/10059070?hl=ko",
+      "check_status": "ok",
+      "verdict": "allowed",
+      "evidence": "code=200"
+    },
+    {
+      "query": "크롬북 게임",
+      "title": "Chromebook에서 즐기는 게임 | Acer 한국",
+      "link": "https://www.acer.com/kr-ko/cloud-gaming",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "code=None"
+    },
+    {
+      "query": "ubg100",
+      "title": "UBG100 Unblocked Games",
+      "link": "https://ubg100.net/",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "크롬북 게임",
+      "title": "크롬북을 게이밍 노트북으로 사용해도 될까? 답은 \"Yes\" - ITWorld",
+      "link": "https://www.itworld.co.kr/article/3564073/%ED%81%AC%EB%A1%AC%EB%B6%81%EC%9D%84-%EA%B2%8C%EC%9D%B4%EB%B0%8D-%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%8F%84-%EB%90%A0%EA%B9%8C-%EB%8B%B5%EC%9D%80-yes.html",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "vpn 추천",
+      "title": "광고 및 속도 제한 없는 무료 VPN 추천",
+      "link": "https://protonvpn.com/ko/free-vpn?srsltid=AU7gw4VVE1unlgIRyuS72bAv2dfamVtO7o_4sf_17w9WYimFVyyHvJNI",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 다운로드 — 안전하고 빠른 Proton VPN | 노로그 ...",
+      "link": "https://protonvpn.com/ko/free-vpn/download?srsltid=AU7gw4Wq9Mhjaviwxv8efAgpADv30CGG0XAMhDVmELMA7eWc609YmCVh",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "무료 vpn",
+      "title": "광고 및 속도 제한 없는 무료 VPN 추천",
+      "link": "https://protonvpn.com/ko/free-vpn?srsltid=AU7gw4UUlPsVVqSfINAJdbqeAZ4bW_zMeLl6NgnaOu2InbD-LNB2C0aa",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "웹 프록시",
+      "title": "SmartProxy 프록시 사이트 - 어떤 웹사이트도 자유롭게",
+      "link": "https://www.smartproxy.kr/proxy-site/",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "티비위키",
+      "title": "티비위키 공식 주소 안내",
+      "link": "https://t.me/s/tvwiki_url?before=113",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "티비위키",
+      "title": "티비위키 - 영화 드라마 OTT 감상",
+      "link": "https://tvwiki13s.store/",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    },
+    {
+      "query": "텔레그램 웹",
+      "title": "Telegram",
+      "link": "https://web.telegram.org/",
+      "check_status": "timeout",
+      "verdict": "blocked",
+      "evidence": "_ssl.c:1064: The handshake operation timed out"
+    }
+  ]
+}
