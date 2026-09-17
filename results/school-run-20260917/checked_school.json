@@ -1,0 +1,2990 @@
+{
+  "summary": {
+    "ssl_error": 38,
+    "ok": 267,
+    "dns_error": 6,
+    "http_4xx": 9,
+    "http_error": 2,
+    "timeout": 9
+  },
+  "results": [
+    {
+      "query": "게임",
+      "title": "Poki (포키) - 무료 온라인 게임 - 지금 플레이하세요!",
+      "link": "https://poki.com/kr",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.11
+    },
+    {
+      "query": "게임",
+      "title": "CrazyGames | 무료 온라인 게임 포털 | 지금 바로 플레이!",
+      "link": "https://www.crazygames.com/kr/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.11
+    },
+    {
+      "query": "플래시 게임",
+      "title": "플래시 게임 🕹️ CrazyGames에서 무료로 플레이 하세요!",
+      "link": "https://www.crazygames.com/kr/t/flash",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "웹게임",
+      "title": "좋은 웹 브라우저 게임 뭐 있어? : r/CasualConversation",
+      "link": "https://www.reddit.com/r/CasualConversation/comments/1be15o2/what_are_some_good_web_browser_games/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/CasualConversation/comments/1be15o2/what_are_some_good_web_browser_games/?tl=ko",
+      "secs": 0.14
+    },
+    {
+      "query": "무료 게임",
+      "title": "매주 무료 게임 받기 | Epic Games Store",
+      "link": "https://store.epicgames.com/free-games?lang=ko",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.14
+    },
+    {
+      "query": "게임",
+      "title": "카카오게임즈",
+      "link": "https://kakaogames.com/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.16
+    },
+    {
+      "query": "브라우저 게임",
+      "title": "너한테 젤 잼는 웹 브라우저 게임은 뭐야?",
+      "link": "https://www.reddit.com/r/CasualConversation/comments/1g5l2gs/what_are_the_best_web_browser_games_for_you/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/CasualConversation/comments/1g5l2gs/what_are_the_best_web_browser_games_for_you/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "온라인 게임",
+      "title": "네이버 PC게임",
+      "link": "https://game.naver.com/pcgame",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://game.naver.com/pcgame",
+      "secs": 0.11
+    },
+    {
+      "query": "플래시 게임",
+      "title": "플래시게임 하우스",
+      "link": "https://flash-game-house.tistory.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://flash-game-house.tistory.com/",
+      "secs": 0.18
+    },
+    {
+      "query": "플래시 게임",
+      "title": "플래시게임 - 티스토리",
+      "link": "https://vidkidz.tistory.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://vidkidz.tistory.com/",
+      "secs": 0.21
+    },
+    {
+      "query": "학교에서 할 게임",
+      "title": "학교에서 학생들이 게임을 할 수 있는 사이트를 만들었어요.",
+      "link": "https://www.reddit.com/r/phaser/comments/1r3ogim/i_built_a_site_that_lets_students_play_games_at/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/phaser/comments/1r3ogim/i_built_a_site_that_lets_students_play_games_at/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "웹게임",
+      "title": "무료 게임・웹게임 목록",
+      "link": "https://g123.jp/games/all?lang=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://g123.jp/games/all?lang=ko",
+      "secs": 0.41
+    },
+    {
+      "query": "학교에서 할 게임",
+      "title": "학교에서 몰래 하기 좋은 게임, 설치 없이 할 수 있는 사이트 추천",
+      "link": "https://m.blog.naver.com/whimwhim_/222769256134",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/whimwhim_/222769256134",
+      "secs": 0.17
+    },
+    {
+      "query": "학교에서 할 게임",
+      "title": "학교에서 어떤 간단한 게임을 했었어/해? : r/school",
+      "link": "https://www.reddit.com/r/school/comments/1pqrl7p/what_quick_games_diddo_you_play_at_school/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/school/comments/1pqrl7p/what_quick_games_diddo_you_play_at_school/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "게임",
+      "title": "Google Play Games: 모바일 및 PC에서 게임을 플레이하세요",
+      "link": "https://play.google.com/googleplaygames?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/googleplaygames?hl=ko",
+      "secs": 0.49
+    },
+    {
+      "query": "학교에서 할 게임",
+      "title": "수업 시간에 심심할 때 하기 좋은 학교 컴퓨터 게임 뭐 있어?",
+      "link": "https://www.reddit.com/r/school_memes/comments/1nzeol1/whats_the_best_school_computer_game_for_when_your/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/school_memes/comments/1nzeol1/whats_the_best_school_computer_game_for_when_your/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "학교에서 할 게임",
+      "title": "학교 컴퓨터실에서 게임하기 웹사이트에서 게임 할수있는 ...",
+      "link": "https://programpia.tistory.com/16",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://programpia.tistory.com/16",
+      "secs": 0.2
+    },
+    {
+      "query": "웹게임",
+      "title": "웹 게임",
+      "link": "https://namu.wiki/w/%EC%9B%B9%20%EA%B2%8C%EC%9E%84",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9B%B9%20%EA%B2%8C%EC%9E%84",
+      "secs": 0.52
+    },
+    {
+      "query": "심심할 때 할 게임",
+      "title": "심심하거나 질렸을 때 무슨 게임을 해야 할까",
+      "link": "https://www.reddit.com/r/ShouldIbuythisgame/comments/14hos3n/what_games_should_i_play_when_bored_or_burnt_out/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/ShouldIbuythisgame/comments/14hos3n/what_games_should_i_play_when_bored_or_burnt_out/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "플래시 게임",
+      "title": "플래시 게임",
+      "link": "https://namu.wiki/w/%ED%94%8C%EB%9E%98%EC%8B%9C%20%EA%B2%8C%EC%9E%84",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%ED%94%8C%EB%9E%98%EC%8B%9C%20%EA%B2%8C%EC%9E%84",
+      "secs": 0.48
+    },
+    {
+      "query": "플래시 게임",
+      "title": "플래시게임",
+      "link": "https://www.youtube.com/playlist?list=PLP9ZbAf6_FNoucB8lMhighrUoWtkQD2WM",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLP9ZbAf6_FNoucB8lMhighrUoWtkQD2WM",
+      "secs": 0.48
+    },
+    {
+      "query": "2인용 게임",
+      "title": "2인용 게임 👥 - 무료로 온라인 게임을 플레이하세요!",
+      "link": "https://poki.com/kr/2%EC%9D%B8%EC%9A%A9",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "2인용 게임",
+      "title": "멀티플레이어 게임 - 2인용",
+      "link": "https://www.crazygames.com/kr/multiplayer?tab=2-player",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "브라우저 게임",
+      "title": "Browser Games - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.bybrawe.html5app&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.bybrawe.html5app&hl=ko",
+      "secs": 0.42
+    },
+    {
+      "query": "2인용 게임",
+      "title": "가장 재밌는 2인용 게임은 뭐임? : r/gamingsuggestions",
+      "link": "https://www.reddit.com/r/gamingsuggestions/comments/1lzss3r/what_are_the_best_couch_coop_games/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/gamingsuggestions/comments/1lzss3r/what_are_the_best_couch_coop_games/?tl=ko",
+      "secs": 0.04
+    },
+    {
+      "query": "무료 영화",
+      "title": "티비핫 - 누누티비, 영화 , 드라마 , 애니 , 미드 , 예능 다시보기 ...",
+      "link": "https://tvhot2.com/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "2인용 게임",
+      "title": "스팀 2인 게임 2인용 커플 게임 추천 8가지",
+      "link": "https://blog.naver.com/gaeun3793/223399775011",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/gaeun3793/223399775011",
+      "secs": 0.09
+    },
+    {
+      "query": "심심할 때 할 게임",
+      "title": "심심할때 혼자서 할만한 게임 추천 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/rhy4214/222763766068",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/rhy4214/222763766068",
+      "secs": 0.16
+    },
+    {
+      "query": "온라인 게임",
+      "title": "온라인 게임",
+      "link": "https://namu.wiki/w/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%8C%EC%9E%84",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%98%A8%EB%9D%BC%EC%9D%B8%20%EA%B2%8C%EC%9E%84",
+      "secs": 0.53
+    },
+    {
+      "query": "무료 드라마",
+      "title": "가장 큰 글로벌 K콘텐츠 저장소! 최강속도 키위디스크 [3.1 ...",
+      "link": "https://m.kiwidisk.com/",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 0.04
+    },
+    {
+      "query": "게임",
+      "title": "무료 온라인 게임 플레이",
+      "link": "https://www.msn.com/ko-kr/play",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.msn.com/ko-kr/play",
+      "secs": 0.74
+    },
+    {
+      "query": "온라인 게임",
+      "title": "무료 온라인 게임 플레이 | MSN 게임",
+      "link": "https://www.msn.com/ko-kr/play/publishers/pikoya",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.msn.com/ko-kr/play/publishers/pikoya",
+      "secs": 0.63
+    },
+    {
+      "query": "무료 게임",
+      "title": "무료 온라인 게임 플레이",
+      "link": "https://www.msn.com/ko-kr/play?cgfrom=cg_home_pivot",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.msn.com/ko-kr/play?cgfrom=cg_home_pivot",
+      "secs": 0.78
+    },
+    {
+      "query": "심심할 때 할 게임",
+      "title": "심심할 때 할만한 모바일 게임 추천!",
+      "link": "https://www.youtube.com/watch?v=9SfiuhDAgx8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=9SfiuhDAgx8",
+      "secs": 0.34
+    },
+    {
+      "query": "드라마 다시보기",
+      "title": "SBS 무료 다시보기 : 11만 여편의 VOD가 무료!",
+      "link": "https://www.sbs.co.kr/ko/m/tv/free",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sbs.co.kr/ko/m/tv/free",
+      "secs": 0.07
+    },
+    {
+      "query": "애니 보는 사이트",
+      "title": "라프텔 - 애니 추천 · 애니 스트리밍 · 애니 굿즈",
+      "link": "https://laftel.net/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "심심할 때 할 게임",
+      "title": "심심할때추천하는게임이있을까요 ??",
+      "link": "https://www.a-ha.io/questions/423e7cdbb62feff3a1d91c8a1ba552f0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.a-ha.io/questions/423e7cdbb62feff3a1d91c8a1ba552f0",
+      "secs": 0.41
+    },
+    {
+      "query": "무료 영화",
+      "title": "[KOR/ENG] [무료영화 : FREEs] 가열차게 얻어맞고 맷집 키우던 ...",
+      "link": "https://www.youtube.com/watch?v=iJpk5Wd8WJo",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=iJpk5Wd8WJo",
+      "secs": 0.36
+    },
+    {
+      "query": "애니 보는 사이트",
+      "title": "어떤 좋은 애니 스트리밍 서비스가 있을까요? : r/anime",
+      "link": "https://www.reddit.com/r/anime/comments/1bfzns7/what_are_some_good_anime_stream_services/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/anime/comments/1bfzns7/what_are_some_good_anime_stream_services/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "무료 영화",
+      "title": "무료영화👊 매주 신작공개! 오직 PLAYYMOVIE 에서 만나 볼 ...",
+      "link": "https://www.youtube.com/playlist?list=PLynDXWnOnvl4BsjlbzHiC1ognGHcALwpS",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/playlist?list=PLynDXWnOnvl4BsjlbzHiC1ognGHcALwpS",
+      "secs": 0.35
+    },
+    {
+      "query": "2인용 게임",
+      "title": "2인용 게임: 도전",
+      "link": "https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.JindoBlu.TwoPlayerGamesChallenge&hl=ko",
+      "secs": 0.41
+    },
+    {
+      "query": "무료 애니",
+      "title": "일본에서 만화/애니를 무료로 (제한 없이) 볼 수 있는 곳이 ...",
+      "link": "https://www.reddit.com/r/cartoons/comments/17plhun/where_can_i_watch_cartoonsanime_online_for_free/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/cartoons/comments/17plhun/where_can_i_watch_cartoonsanime_online_for_free/?tl=ko",
+      "secs": 0.07
+    },
+    {
+      "query": "영화 다시보기",
+      "title": "朝鲜族网址站-dujiza.com",
+      "link": "https://www.dujiza.com/html/Video/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.dujiza.com/html/Video/",
+      "secs": 0.3
+    },
+    {
+      "query": "실시간 방송",
+      "title": "KBS 온에어",
+      "link": "https://onair.kbs.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://onair.kbs.co.kr/index.html?sname=onair&stype=live&ch_code=11&ch_type=globalList",
+      "secs": 0.13
+    },
+    {
+      "query": "애니 보는 사이트",
+      "title": "무료 애니 보는곳 애니24 들어가는 사이트 알려드려요",
+      "link": "https://www.youtube.com/shorts/Bey55sWAGIQ",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/shorts/Bey55sWAGIQ",
+      "secs": 0.33
+    },
+    {
+      "query": "애니 보는 사이트",
+      "title": "분류:불법 애니메이션 공유 사이트",
+      "link": "https://namu.wiki/w/%EB%B6%84%EB%A5%98:%EB%B6%88%EB%B2%95%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EA%B3%B5%EC%9C%A0%20%EC%82%AC%EC%9D%B4%ED%8A%B8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EB%B6%84%EB%A5%98:%EB%B6%88%EB%B2%95%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%20%EA%B3%B5%EC%9C%A0%20%EC%82%AC%EC%9D%B4%ED%8A%B8",
+      "secs": 0.4
+    },
+    {
+      "query": "무료 애니",
+      "title": "애니 자막",
+      "link": "https://linkkf.tv/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://linkkf.tv/",
+      "secs": 0.38
+    },
+    {
+      "query": "실시간 방송",
+      "title": "라이브",
+      "link": "https://www.yonhapnewstv.co.kr/live",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.yonhapnewstv.co.kr/live",
+      "secs": 0.11
+    },
+    {
+      "query": "무료 애니",
+      "title": "Watch anime for free? Introducing an anime app just for anime ...",
+      "link": "https://www.youtube.com/watch?v=cADzNFOfjjk",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=cADzNFOfjjk",
+      "secs": 0.46
+    },
+    {
+      "query": "설치 없이 게임",
+      "title": "온라인 모바일 게임 플레이",
+      "link": "https://now.gg/ko/games.html",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://now.gg/ko/games.html",
+      "secs": 1.18
+    },
+    {
+      "query": "실시간 방송",
+      "title": "[Radio Korea] 라디오코리아 실시간 방송 | KMPC 1540 AM Live",
+      "link": "https://www.youtube.com/watch?v=QXmQA2ozfWs",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=QXmQA2ozfWs",
+      "secs": 0.38
+    },
+    {
+      "query": "설치 없이 게임",
+      "title": "무료게임 사이트 - 다운로드 및 설치 없는 poki 스타일 웹게임",
+      "link": "https://gamefunbar.com/ko/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://gamefunbar.com/ko/",
+      "secs": 1.25
+    },
+    {
+      "query": "무료 영화",
+      "title": "누누티비 :: 최신영화 드라마 OTT 보기",
+      "link": "https://noonootvk18.store/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://noonootvk19.store/",
+      "secs": 0.87
+    },
+    {
+      "query": "실시간 방송",
+      "title": "[Radio Korea] 라디오코리아 실시간 방송 | KMPC 1540 AM ...",
+      "link": "https://www.youtube.com/channel/UCphUTA3pXlImjE_oPOfdoYA/live",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/channel/UCphUTA3pXlImjE_oPOfdoYA/live",
+      "secs": 0.35
+    },
+    {
+      "query": "영화 다시보기",
+      "title": "누누티비 - 티비 다시보기, 영화 다시보기, 드라마 다시보기",
+      "link": "https://nooo32.tv/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.84
+    },
+    {
+      "query": "무료 영상 사이트",
+      "title": "놀라운 무료 스톡 동영상 장면 및 클립",
+      "link": "https://pixabay.com/ko/videos/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://pixabay.com/ko/videos/",
+      "secs": 0.07
+    },
+    {
+      "query": "무료 영상 사이트",
+      "title": "최고의 저작권없는 비디오 동영상",
+      "link": "https://www.pexels.com/ko-kr/search/videos/%EC%A0%80%EC%9E%91%EA%B6%8C%EC%97%86%EB%8A%94%20%EB%B9%84%EB%94%94%EC%98%A4/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://www.pexels.com/ko-kr/search/videos/%EC%A0%80%EC%9E%91%EA%B6%8C%EC%97%86%EB%8A%94%20%EB%B9%84%EB%94%94%EC%98%A4/",
+      "secs": 0.08
+    },
+    {
+      "query": "무료 영상 사이트",
+      "title": "유튜버들이 영상에 쓸 수 있는 괜찮은 무료 스톡 비디오/클립 ...",
+      "link": "https://www.reddit.com/r/PartneredYoutube/comments/gs3gar/are_there_any_good_free_sites_for_stock/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/PartneredYoutube/comments/gs3gar/are_there_any_good_free_sites_for_stock/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "무료 영상 사이트",
+      "title": "무료 스톡 동영상",
+      "link": "https://www.pexels.com/ko-kr/videos/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://www.pexels.com/ko-kr/videos/",
+      "secs": 0.05
+    },
+    {
+      "query": "웹툰",
+      "title": "네이버 웹툰",
+      "link": "https://m.comic.naver.com/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.03
+    },
+    {
+      "query": "무료 영상 사이트",
+      "title": "초보가 이용하기 좋은 무료 동영상 소스 사이트",
+      "link": "https://blog.naver.com/paintplan/223405308401",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/paintplan/223405308401",
+      "secs": 0.07
+    },
+    {
+      "query": "애니 보는 사이트",
+      "title": "2026 년 최신 Top 10 무료 애니메이션 추천 사이트 - 아이마이폰",
+      "link": "https://kr.imyfone.com/make-video/free-animation-site/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://kr.imyfone.com/make-video/free-animation-site/",
+      "secs": 0.74
+    },
+    {
+      "query": "웹툰",
+      "title": "카카오웹툰 - KAKAO WEBTOON",
+      "link": "https://webtoon.kakao.com/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "영화 다시보기",
+      "title": "넷플릭스 대한민국 - 인터넷으로 시리즈와 영화를 시청하세요",
+      "link": "https://www.netflix.com/kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.netflix.com/kr/",
+      "secs": 0.88
+    },
+    {
+      "query": "무료 웹툰",
+      "title": "웹툰, 만화, 소설, 무료웹툰, 무료만화, 무료소설",
+      "link": "https://m.mrblue.com/novel/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.mrblue.com/novel/",
+      "secs": 0.2
+    },
+    {
+      "query": "인터넷 방송",
+      "title": "인터넷 방송",
+      "link": "https://namu.wiki/w/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%A9%EC%86%A1",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%A9%EC%86%A1",
+      "secs": 0.52
+    },
+    {
+      "query": "인터넷 방송",
+      "title": "인터넷 방송인",
+      "link": "https://namu.wiki/w/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%A9%EC%86%A1%EC%9D%B8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9D%B8%ED%84%B0%EB%84%B7%20%EB%B0%A9%EC%86%A1%EC%9D%B8",
+      "secs": 0.44
+    },
+    {
+      "query": "만화 보는 사이트",
+      "title": "인기만화 - 일일툰 일본만화 무료만화 무료웹툰 무료애니",
+      "link": "https://update.spotv24.com/bbs/board.php?bo_table=toon_c&tablename=%EC%9D%B8%EA%B8%B0%EB%A7%8C%ED%99%94",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.09
+    },
+    {
+      "query": "인터넷 방송",
+      "title": "인터넷 방송 7년차의 현실적인 이야기",
+      "link": "https://www.youtube.com/watch?v=ga_qwbyr1YI",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=ga_qwbyr1YI",
+      "secs": 0.47
+    },
+    {
+      "query": "무료 웹툰",
+      "title": "블랙툰｜최신 주소 · 인기 무료웹툰 · 안전 이용법",
+      "link": "https://toonalt.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://toonalt.com/",
+      "secs": 0.31
+    },
+    {
+      "query": "만화 보는 사이트",
+      "title": "어디가 믿을 만한 만화 무료 사이트야? : r/Komi_san",
+      "link": "https://www.reddit.com/r/Komi_san/comments/1iozab4/what_is_a_reliable_website_where_i_can_read_the/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/Komi_san/comments/1iozab4/what_is_a_reliable_website_where_i_can_read_the/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "만화 보는 사이트",
+      "title": "인기 일본만화 BEST 모아보기!",
+      "link": "https://page.kakao.com/landing/series/list/page/landing/4560",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "웹툰",
+      "title": "요즘 밤새면서 읽은 명작 웹툰 추천하기 (aka. 제발 읽어달라 ...",
+      "link": "https://www.youtube.com/watch?v=BrjKbrSqfG0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=BrjKbrSqfG0",
+      "secs": 0.35
+    },
+    {
+      "query": "만화 보는 사이트",
+      "title": "일본 만화, 웹툰을 무료로 볼수있는 공식 사이트 모음",
+      "link": "https://blog.naver.com/maganda143/224335579656",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/maganda143/224335579656",
+      "secs": 0.07
+    },
+    {
+      "query": "무료 드라마",
+      "title": "누누티비 | 최신영화 드라마 OTT",
+      "link": "http://noonootvv9.store/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 1.3
+    },
+    {
+      "query": "웹툰",
+      "title": "WEBTOON: Manga, Comics, Manhwa - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.naver.linewebtoon",
+      "secs": 0.43
+    },
+    {
+      "query": "커뮤니티",
+      "title": "커뮤니티",
+      "link": "https://bbs.ruliweb.com/community",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://bbs.ruliweb.com/community",
+      "secs": 0.09
+    },
+    {
+      "query": "무료 만화",
+      "title": "인터넷만화방",
+      "link": "https://m.manhwa.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.manhwa.co.kr/",
+      "secs": 0.15
+    },
+    {
+      "query": "커뮤니티",
+      "title": "더 커뮤니티: 시즌 2 테스트 — 보이지 않는 손",
+      "link": "https://thecommunity.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://thecommunity.co.kr/",
+      "secs": 0.19
+    },
+    {
+      "query": "만화 보는 사이트",
+      "title": "일일툰",
+      "link": "https://namu.wiki/w/%EC%9D%BC%EC%9D%BC%ED%88%B0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9D%BC%EC%9D%BC%ED%88%B0",
+      "secs": 0.49
+    },
+    {
+      "query": "커뮤니티",
+      "title": "커뮤니티 성공의 핵심 요건 3가지 l 이제 '커뮤니티 리더십'에 ...",
+      "link": "https://www.youtube.com/watch?v=Quq24JIl7Fs",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=Quq24JIl7Fs",
+      "secs": 0.36
+    },
+    {
+      "query": "실시간 방송",
+      "title": "실시간 TV - 무료 실시간 TV 보기",
+      "link": "https://webtv.dothome.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://webtv.dothome.co.kr/",
+      "secs": 1.12
+    },
+    {
+      "query": "커뮤니티",
+      "title": "커뮤니티",
+      "link": "https://namu.wiki/w/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "secs": 0.46
+    },
+    {
+      "query": "게임 커뮤니티",
+      "title": "인벤 - No.1 게임 미디어 플랫폼",
+      "link": "https://www.inven.co.kr/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.03
+    },
+    {
+      "query": "학생 커뮤니티",
+      "title": "국제 학생에게 학비가 가장 저렴한 커뮤니티 컬리지는 어디 ...",
+      "link": "https://www.reddit.com/r/communitycollege/comments/1r98glb/international_friendly_ccs_with_the_cheapest/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/communitycollege/comments/1r98glb/international_friendly_ccs_with_the_cheapest/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "인터넷 방송",
+      "title": "인터넷 방송 플랫폼 순위: 주목할 7대 플랫폼",
+      "link": "https://www.bigo.tv/ko/blog/korea-internet-broadcasting-platform-rankings",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.bigo.tv/ko/blog/korea-internet-broadcasting-platform-rankings",
+      "secs": 1.08
+    },
+    {
+      "query": "게임 커뮤니티",
+      "title": "게임 커뮤니티를 찾는 방법? : r/AskGames",
+      "link": "https://www.reddit.com/r/AskGames/comments/1qmloh8/how_to_find_a_gaming_community/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/AskGames/comments/1qmloh8/how_to_find_a_gaming_community/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "학생 커뮤니티",
+      "title": "학생 커뮤니티",
+      "link": "https://namu.wiki/w/%ED%95%99%EC%83%9D%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%ED%95%99%EC%83%9D%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "secs": 0.47
+    },
+    {
+      "query": "커뮤니티",
+      "title": "커뮤니티 사이트 순위 2026년 9월 - MAU 방문자 수 기준",
+      "link": "https://waffleboard.io/ranking",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://waffleboard.io/ranking",
+      "secs": 0.59
+    },
+    {
+      "query": "인터넷 방송",
+      "title": "인터넷 방송 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EB%B0%A9%EC%86%A1",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%EB%B0%A9%EC%86%A1",
+      "secs": 1.23
+    },
+    {
+      "query": "무료 웹툰",
+      "title": "2026년을 대비한 무료웹툰사이트 8곳 추천",
+      "link": "https://www.videoproc.com/kr/blog/free-webtoon-sites.htm",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.videoproc.com/kr/blog/free-webtoon-sites.htm",
+      "secs": 1.01
+    },
+    {
+      "query": "웹툰",
+      "title": "WEBTOON - Read Comics, Manga & Manhwa",
+      "link": "https://www.webtoons.com/en/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 1.09
+    },
+    {
+      "query": "게임 커뮤니티",
+      "title": "모바일 게임 커뮤니티로는 뭐가 있음? - 종합게임‍ 채널",
+      "link": "https://arca.live/b/cgame/23186639",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://arca.live/b/cgame/23186639",
+      "secs": 0.27
+    },
+    {
+      "query": "유머 사이트",
+      "title": "오늘의유머",
+      "link": "http://www.todayhumor.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "http://www.todayhumor.co.kr/",
+      "secs": 0.21
+    },
+    {
+      "query": "익명 커뮤니티",
+      "title": "익명 커뮤니티, 설마 진짜 익명이라고 생각하는 사람들있나요 ...",
+      "link": "https://www.youtube.com/watch?v=ZFa7FhQUyDc",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=ZFa7FhQUyDc",
+      "secs": 0.38
+    },
+    {
+      "query": "유머 사이트",
+      "title": "행복한 유머, 웃긴대학에 오셨습니다.",
+      "link": "https://m.humoruniv.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.humoruniv.com/main.html",
+      "secs": 0.21
+    },
+    {
+      "query": "게임 커뮤니티",
+      "title": "분류:게임 커뮤니티",
+      "link": "https://namu.wiki/w/%EB%B6%84%EB%A5%98:%EA%B2%8C%EC%9E%84%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EB%B6%84%EB%A5%98:%EA%B2%8C%EC%9E%84%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0",
+      "secs": 0.44
+    },
+    {
+      "query": "익명 커뮤니티",
+      "title": "익명 게시판",
+      "link": "https://namu.wiki/w/%EC%9D%B5%EB%AA%85%20%EA%B2%8C%EC%8B%9C%ED%8C%90",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9D%B5%EB%AA%85%20%EA%B2%8C%EC%8B%9C%ED%8C%90",
+      "secs": 0.44
+    },
+    {
+      "query": "유머 사이트",
+      "title": "유머 BEST",
+      "link": "https://bbs.ruliweb.com/best/humor_only",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://bbs.ruliweb.com/best/humor_only",
+      "secs": 0.12
+    },
+    {
+      "query": "무료 만화",
+      "title": "만화 - 무료",
+      "link": "https://www.bomtoon.com/bom/cartoon/free",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 1.08
+    },
+    {
+      "query": "익명 커뮤니티",
+      "title": "✅전국민 익명 커뮤니티 '익판' (@ikpann.co.kr ) ...",
+      "link": "https://www.instagram.com/p/DclXmP-kgMe/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.instagram.com/p/DclXmP-kgMe/",
+      "secs": 0.4
+    },
+    {
+      "query": "게시판 사이트",
+      "title": "웹사이트 제작 - 게시판 종류와 명칭 - 탐색 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/kjhjun/220868708278",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/kjhjun/220868708278",
+      "secs": 0.14
+    },
+    {
+      "query": "게시판 사이트",
+      "title": "무료 게시판 쓸 수 있는 사이트 없을까요? ㅠㅠ",
+      "link": "https://www.clien.net/service/board/kin/12897040",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.clien.net/service/board/kin/12897040",
+      "secs": 0.13
+    },
+    {
+      "query": "채팅 사이트",
+      "title": "무료채팅사이트 7개 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/dalili82/222805306740",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/dalili82/222805306740",
+      "secs": 0.16
+    },
+    {
+      "query": "유머 사이트",
+      "title": "고급유머",
+      "link": "https://www.goodgag.net/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.goodgag.net/",
+      "secs": 0.24
+    },
+    {
+      "query": "익명 커뮤니티",
+      "title": "here (히어) - 장소 기반 익명 커뮤니티",
+      "link": "https://play.google.com/store/apps/details?id=com.hotdog.hereClient&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.hotdog.hereClient&hl=ko",
+      "secs": 0.58
+    },
+    {
+      "query": "채팅 사이트",
+      "title": "랜덤 채팅 - 핸즈프렌드",
+      "link": "https://handsfriend.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://handsfriend.com/",
+      "secs": 0.15
+    },
+    {
+      "query": "채팅 사이트",
+      "title": "무료 랜덤채팅: Ntalk",
+      "link": "https://ntalk1.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://ntalk1.com/",
+      "secs": 0.1
+    },
+    {
+      "query": "익명 채팅",
+      "title": "익명 채팅으로 소통하기 : r/Korean",
+      "link": "https://www.reddit.com/r/Korean/comments/18d4bzi/anonymous_chats_for_communication/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/Korean/comments/18d4bzi/anonymous_chats_for_communication/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "유머 사이트",
+      "title": "유머사이트 즐겨찾기 - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.steppers.humor2",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.steppers.humor2",
+      "secs": 0.41
+    },
+    {
+      "query": "채팅 사이트",
+      "title": "랜덤채팅 딥톡 - 가입없이 안전한 무료 1:1 랜덤채팅",
+      "link": "https://diptok.app/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://diptok.app/",
+      "secs": 0.21
+    },
+    {
+      "query": "학생 커뮤니티",
+      "title": "고려대 로스쿨 학생 커뮤니티",
+      "link": "https://korealawschool.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://korealawschool.co.kr/",
+      "secs": 1.13
+    },
+    {
+      "query": "랜덤채팅",
+      "title": "랜덤채팅 채널",
+      "link": "https://arca.live/b/random",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://arca.live/b/random",
+      "secs": 0.22
+    },
+    {
+      "query": "오픈채팅",
+      "title": "세상의 모든 관심, 카카오톡 오픈채팅",
+      "link": "https://www.kakaocorp.com/page/service/service/openchat",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.kakaocorp.com/page/service/service/openchat",
+      "secs": 0.19
+    },
+    {
+      "query": "오픈채팅",
+      "title": "Kakao KakaoTalk Open Chat - 카카오",
+      "link": "https://open.kakao.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://open.kakao.com/",
+      "secs": 0.08
+    },
+    {
+      "query": "오픈채팅",
+      "title": "카카오톡 오픈채팅 들어가는법과 카톡 오픈채팅방 프로필 ...",
+      "link": "https://m.blog.naver.com/oksk2002kr/223117642841",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/oksk2002kr/223117642841",
+      "secs": 0.17
+    },
+    {
+      "query": "채팅 사이트",
+      "title": "랜덤 채팅",
+      "link": "https://namu.wiki/w/%EB%9E%9C%EB%8D%A4%20%EC%B1%84%ED%8C%85",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EB%9E%9C%EB%8D%A4%20%EC%B1%84%ED%8C%85",
+      "secs": 0.55
+    },
+    {
+      "query": "랜덤채팅",
+      "title": "비밀채팅 - 랜덤채팅",
+      "link": "https://play.google.com/store/apps/details?id=com.suyong.secretchat&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.suyong.secretchat&hl=ko",
+      "secs": 0.41
+    },
+    {
+      "query": "친구 만들기",
+      "title": "(친한) 친구 만드는 법 : r/AskWomenOver30",
+      "link": "https://www.reddit.com/r/AskWomenOver30/comments/1scsdcl/how_to_make_close_friend/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/AskWomenOver30/comments/1scsdcl/how_to_make_close_friend/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "익명 커뮤니티",
+      "title": "[익명 커뮤니티] 디씨는 올드하고 에타나 블라인드는 폐쇄적 ...",
+      "link": "https://onionkim.tistory.com/6",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://onionkim.tistory.com/6",
+      "secs": 1.2
+    },
+    {
+      "query": "친구 만들기",
+      "title": "동네친구어플로 새로운 사람과 쉽게 친구 만들기! (솔직 후기)",
+      "link": "https://blog.naver.com/lbehave/224232934825",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/lbehave/224232934825",
+      "secs": 0.07
+    },
+    {
+      "query": "오픈채팅",
+      "title": "오픈채팅방 검색하여 입장하는 방법",
+      "link": "https://www.youtube.com/watch?v=2btVfkAVnrA",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=2btVfkAVnrA",
+      "secs": 0.35
+    },
+    {
+      "query": "익명 채팅",
+      "title": "Soul-익명 소통, 동네친구 만들기, 랜덤채팅 앱 - App Store",
+      "link": "https://apps.apple.com/us/app/soul-%EC%9D%B5%EB%AA%85-%EC%86%8C%ED%86%B5-%EB%8F%99%EB%84%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%9E%9C%EB%8D%A4%EC%B1%84%ED%8C%85/id1472322409?l=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.apple.com/us/app/soul-%EC%9D%B5%EB%AA%85-%EC%86%8C%ED%86%B5-%EB%8F%99%EB%84%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%9E%9C%EB%8D%A4%EC%B1%84%ED%8C%85/id1472322409?l=ko",
+      "secs": 0.81
+    },
+    {
+      "query": "오픈채팅",
+      "title": "오픈채팅방",
+      "link": "https://namu.wiki/w/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9",
+      "secs": 0.47
+    },
+    {
+      "query": "SNS 사이트",
+      "title": "소셜 네트워크 서비스(SNS)",
+      "link": "http://www.tcpschool.com/webbasic/sns",
+      "status": "ok",
+      "code": 200,
+      "final_url": "http://www.tcpschool.com/webbasic/sns",
+      "secs": 0.12
+    },
+    {
+      "query": "SNS 사이트",
+      "title": "SNS 하시는분들에게 필요한 사이트 - 네이버 블로그",
+      "link": "https://m.blog.naver.com/kkwrkdrk2/220873758064",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/kkwrkdrk2/220873758064",
+      "secs": 0.14
+    },
+    {
+      "query": "친구 만들기",
+      "title": "톡친구만들기 - 채팅 친구 찾기, 채팅 어플",
+      "link": "https://play.google.com/store/apps/details?id=com.sntown.messengerpal&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.sntown.messengerpal&hl=ko",
+      "secs": 0.58
+    },
+    {
+      "query": "학생 커뮤니티",
+      "title": "학생 커뮤니티 - Excelsior School",
+      "link": "https://excelsiorschool.com/%ED%95%99%EC%83%9D-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://excelsiorschool.com/%ED%95%99%EC%83%9D-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0/",
+      "secs": 2.18
+    },
+    {
+      "query": "친구 만들기",
+      "title": "핑블 - 채팅 친구 만들기 - 좋아할 만한 다른 앱 - App Store",
+      "link": "https://apps.apple.com/us/app/962741918?l=ko&see-all=customers-also-bought-apps&platform=vision",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.apple.com/us/app/%ED%95%91%EB%B8%94-%EC%B1%84%ED%8C%85-%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0/id962741918?l=ko&see-all=customers-also-bought-apps&platform=vision",
+      "secs": 0.71
+    },
+    {
+      "query": "AI 챗봇",
+      "title": "챗봇이란 무엇인가요? - AI 챗봇 설명",
+      "link": "https://aws.amazon.com/ko/what-is/chatbot/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://aws.amazon.com/ko/what-is/chatbot/",
+      "secs": 0.22
+    },
+    {
+      "query": "SNS 사이트",
+      "title": "SNS ｜ Sonny Angel - 공식 사이트 -",
+      "link": "https://www.sonnyangel.com/ko/sns/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sonnyangel.com/ko/sns/",
+      "secs": 0.9
+    },
+    {
+      "query": "SNS 사이트",
+      "title": "소셜 네트워크 서비스",
+      "link": "https://namu.wiki/w/%EC%86%8C%EC%85%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%86%8C%EC%85%9C%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EC%84%9C%EB%B9%84%EC%8A%A4",
+      "secs": 0.73
+    },
+    {
+      "query": "무료 AI",
+      "title": "다모아 AI - AI 사이트 모음",
+      "link": "https://www.damoa.ai/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.damoa.ai/",
+      "secs": 0.27
+    },
+    {
+      "query": "AI 챗봇",
+      "title": "대화형 인공지능",
+      "link": "https://namu.wiki/w/%EB%8C%80%ED%99%94%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EB%8C%80%ED%99%94%ED%98%95%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5",
+      "secs": 0.49
+    },
+    {
+      "query": "AI 챗봇",
+      "title": "Chatbot App - AI Chatbot",
+      "link": "https://chatbotapp.ai/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://chatbotapp.ai/",
+      "secs": 0.52
+    },
+    {
+      "query": "무료 AI",
+      "title": "지금 당장 최고의 무료 AI는 뭔가요? (현재 ChatGPT Free를 ...",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1ptq26y/what_is_the_absolute_best_free_ai_right_now/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/ChatGPT/comments/1ptq26y/what_is_the_absolute_best_free_ai_right_now/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "SNS 사이트",
+      "title": "SNS 마케팅을 할 때 알아두면 좋은 사이트",
+      "link": "https://brunch.co.kr/@socialmkt/110",
+      "status": "http_error",
+      "code": 302,
+      "final_url": "https://brunch.co.kr/callback/auth/kakao?error_description=NOT_CONNECTED_USER&state=xq0fgbbDjkQns0uRSckR-iCJN6XN8T1Qs5ikiXDsA1o%3D&error=auto_login",
+      "secs": 0.92
+    },
+    {
+      "query": "무료 AI",
+      "title": "Raphael AI - 무료 무제한 AI 이미지 생성기",
+      "link": "https://raphael.app/ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://raphael.app/ko",
+      "secs": 0.21
+    },
+    {
+      "query": "AI 그림",
+      "title": "무료 온라인 AI 이미지 생성기 2.0",
+      "link": "https://www.canva.com/ko_kr/ai-image-generator/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://www.canva.com/ko_kr/ai-image-generator/",
+      "secs": 0.08
+    },
+    {
+      "query": "AI 그림",
+      "title": "AI 그림 채널",
+      "link": "https://arca.live/b/aiart",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://arca.live/b/aiart",
+      "secs": 0.19
+    },
+    {
+      "query": "AI 글쓰기",
+      "title": "2026년에 실제로 쓸 만한 AI 글쓰기 도구는 뭔가요?",
+      "link": "https://www.reddit.com/r/WritingWithAI/comments/1q5bonu/what_ai_writing_tools_are_actually_worth_using_in/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/WritingWithAI/comments/1q5bonu/what_ai_writing_tools_are_actually_worth_using_in/?tl=ko",
+      "secs": 0.07
+    },
+    {
+      "query": "AI 그림",
+      "title": "요즘 생성형 AI 뭐씀? 이미지 생성 AI 서비스 추천 5개 (+AI ...",
+      "link": "https://m.blog.naver.com/codeitofficial/223478180467",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/codeitofficial/223478180467",
+      "secs": 0.14
+    },
+    {
+      "query": "AI 글쓰기",
+      "title": "AI 글쓰기 챗GPT를 뛰어넘는 툴 5가지(유료, 무료, 장단점 비교)",
+      "link": "https://blog.naver.com/mati1007/223593667461?fromRss=true&trackingCode=rss",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/mati1007/223593667461?fromRss=true&trackingCode=rss",
+      "secs": 0.08
+    },
+    {
+      "query": "AI 챗봇",
+      "title": "챗봇이란 무엇인가요?",
+      "link": "https://www.ibm.com/kr-ko/think/topics/chatbots",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.ibm.com/kr-ko/think/topics/chatbots",
+      "secs": 1.28
+    },
+    {
+      "query": "익명 채팅",
+      "title": "가가라이브 - 모바일 랜덤채팅",
+      "link": "http://m.gagalive.com/live/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "http://www.gagalive.com/live/random_chat",
+      "secs": 2.26
+    },
+    {
+      "query": "AI 글쓰기",
+      "title": "AI와 함께 글쓰기",
+      "link": "https://openai.com/ko-KR/chatgpt/use-cases/writing-with-ai/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://openai.com/ko-KR/chatgpt/use-cases/writing-with-ai/",
+      "secs": 0.09
+    },
+    {
+      "query": "ChatGPT 대체",
+      "title": "ChatGPT대신 쓸 만한 무료 프로그램 뭐 없을까요?",
+      "link": "https://www.reddit.com/r/ChatGPT/comments/1kyg88x/any_free_alternatives_to_chatgpt/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/ChatGPT/comments/1kyg88x/any_free_alternatives_to_chatgpt/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "학생 커뮤니티",
+      "title": "우리의 진정한 커뮤니티 | 미들랜드 스쿨",
+      "link": "https://midland-school.org/ko/the-midland-experience/authentic-community/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://midland-school.org/ko/the-midland-experience/authentic-community/",
+      "secs": 3.21
+    },
+    {
+      "query": "ChatGPT 대체",
+      "title": "ChatGPT 대체: 글쓰기, 코딩, 리서치, 이미지 생성용 대안 옵션",
+      "link": "https://www.expressvpn.com/kr/blog/chatgpt-%EB%8C%80%EC%B2%B4/?srsltid=AU7gw4Xs8a72ESgTknSSc_-7gASn0m0kS_EKyv3MqGHx3XT3LAMQk3Hw",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "AI 글쓰기",
+      "title": "AI 글쓰기 1년 써보니 아무도 말 안 하는 함정 3가지",
+      "link": "https://www.youtube.com/watch?v=2uR7rhzS-UU",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=2uR7rhzS-UU",
+      "secs": 0.34
+    },
+    {
+      "query": "ChatGPT 대체",
+      "title": "chat gpt 대신해서 쓸 ai 추천해주세요 - 네이버 지식iN",
+      "link": "https://m.kin.naver.com/qna/dirs/113/docs/486870140?qnaDetailTrackingCode=end_similar_list",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.kin.naver.com/qna/dirs/113/docs/486870140?qnaDetailTrackingCode=end_similar_list",
+      "secs": 0.24
+    },
+    {
+      "query": "친구 만들기",
+      "title": "새로운 지역에서 친구 만드는 방법이 무엇이 있을까요..ㅎㅎ ...",
+      "link": "https://www.milemoa.com/bbs/board/9786400",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 2.19
+    },
+    {
+      "query": "AI 그림",
+      "title": "AI 그림 - 인공지능 AI 그림 그리기 사이트",
+      "link": "https://aigreem.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://aigreem.com/",
+      "secs": 0.84
+    },
+    {
+      "query": "AI 챗봇",
+      "title": "AI 챗봇",
+      "link": "https://cloud.google.com/use-cases/ai-chatbot?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://cloud.google.com/use-cases/ai-chatbot?hl=ko",
+      "secs": 1.63
+    },
+    {
+      "query": "AI 사이트",
+      "title": "내 웹사이트에 AI를 어떻게 추가할 수 있나요 (무료로)?",
+      "link": "https://www.reddit.com/r/aipromptprogramming/comments/1lkzlac/how_can_i_add_ai_in_my_websitefor_free/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/aipromptprogramming/comments/1lkzlac/how_can_i_add_ai_in_my_websitefor_free/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "AI 사이트",
+      "title": "코딩 없이 1시간 안에 끝내는 '미친 디자인' AI 웹사이트 뽑는 법",
+      "link": "https://www.youtube.com/watch?v=JHzlRSw34i4",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=JHzlRSw34i4",
+      "secs": 0.51
+    },
+    {
+      "query": "ChatGPT 대체",
+      "title": "ChatGPT를 대체할 궁극의 오픈소스 AI 플랫폼",
+      "link": "https://www.youtube.com/shorts/teO0YAbxUsU",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/shorts/teO0YAbxUsU",
+      "secs": 0.6
+    },
+    {
+      "query": "무료 AI",
+      "title": "Felo - 무료 다국어 AI 검색·리서치·제작 플랫폼",
+      "link": "https://felo.ai/ko/search",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://felo.ai/ko/search",
+      "secs": 1.26
+    },
+    {
+      "query": "AI 사이트",
+      "title": "The Ultimate Guide to Building Websites with AI (Beginner ...",
+      "link": "https://www.youtube.com/watch?v=aAA924Ex2yw",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=aAA924Ex2yw",
+      "secs": 0.34
+    },
+    {
+      "query": "무료 다운로드",
+      "title": "Adobe Acrobat Reader 다운로드: 무료 PDF 뷰어",
+      "link": "https://get.adobe.com/kr/reader/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://get.adobe.com/kr/reader/",
+      "secs": 0.13
+    },
+    {
+      "query": "무료 다운로드",
+      "title": "Android 다운로드",
+      "link": "https://www.teamviewer.com/ko/download/android/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.teamviewer.com/ko/download/android/",
+      "secs": 0.15
+    },
+    {
+      "query": "ChatGPT 대체",
+      "title": "2026년 최고의 ChatGPT 대안 7선",
+      "link": "https://manus.im/ko/blog/best-chatgpt-alternatives",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://manus.im/ko/blog/best-chatgpt-alternatives",
+      "secs": 0.93
+    },
+    {
+      "query": "파일 공유",
+      "title": "대용량 파일 전송 무료 - 용량 제한 없는 파일 공유",
+      "link": "https://file.kiwi/ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://file.kiwi/ko",
+      "secs": 0.25
+    },
+    {
+      "query": "AI 사이트",
+      "title": "AI 웹사이트 생성기 | 전문 웹사이트를 즉시 제작",
+      "link": "https://uxpilot.ai/ko-KR/ai-website-generator",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://uxpilot.ai/ko-KR/ai-website-generator",
+      "secs": 0.66
+    },
+    {
+      "query": "무료 AI",
+      "title": "2026년을 위한 10가지 이상의 무료 AI 도구",
+      "link": "https://cloud.google.com/use-cases/free-ai-tools?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://cloud.google.com/use-cases/free-ai-tools?hl=ko",
+      "secs": 1.8
+    },
+    {
+      "query": "파일 공유",
+      "title": "Microsoft OneDrive에서 파일 및 폴더 공유",
+      "link": "https://support.microsoft.com/ko-kr/onedrive/share-files-and-folders-in-microsoft-onedrive",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://support.microsoft.com/ko-kr/onedrive/share-files-and-folders-in-microsoft-onedrive",
+      "secs": 0.18
+    },
+    {
+      "query": "프로그램 다운로드",
+      "title": "소프트픽 : 무료 소프트웨어 다운로드",
+      "link": "https://www.softpick.co.kr/",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 0.22
+    },
+    {
+      "query": "파일 공유",
+      "title": "Send Anywhere - 대용량 파일 전송",
+      "link": "https://send-anywhere.com/ko/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://send-anywhere.com/ko/",
+      "secs": 0.39
+    },
+    {
+      "query": "프로그램 다운로드",
+      "title": "무료 소프트웨어 믿고 쓰는 사이트 어디 있어? (sourceforge ...",
+      "link": "https://www.reddit.com/r/software/comments/1xwokn/whats_your_trusted_site_for_freeware_sourceforge/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/software/comments/1xwokn/whats_your_trusted_site_for_freeware_sourceforge/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "웹하드",
+      "title": "웹하드",
+      "link": "https://only.webhard.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://only.webhard.co.kr/",
+      "secs": 0.1
+    },
+    {
+      "query": "무료 다운로드",
+      "title": "온라인 비디오 다운로더에서 저장",
+      "link": "https://ko.savefrom.net/129WU/sf",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://ko.savefrom.net/129WU/sf",
+      "secs": 0.86
+    },
+    {
+      "query": "프로그램 다운로드",
+      "title": "유용한 무료 프로그램 다운로드 사이트 TOP 8 [합법적 해외 ...",
+      "link": "https://www.youtube.com/watch?v=Fc3ON2E6adw",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=Fc3ON2E6adw",
+      "secs": 0.36
+    },
+    {
+      "query": "AI 글쓰기",
+      "title": "브런치 대상 작가가 추천하는 글쓰기 AI툴 3개",
+      "link": "https://brunch.co.kr/@suski/246",
+      "status": "http_error",
+      "code": 302,
+      "final_url": "https://brunch.co.kr/callback/auth/kakao?error_description=NOT_CONNECTED_USER&state=zMuhENI8b-UC7umh9HEbie8vh5viaIP2Scn_I-6Trxc%3D&error=auto_login",
+      "secs": 1.94
+    },
+    {
+      "query": "웹하드",
+      "title": "웹하드, P2P, 클라우드 그 차이점을 아시나요??? - 네이버 블로그",
+      "link": "https://m.blog.naver.com/jegalcsh/220562767092",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/jegalcsh/220562767092",
+      "secs": 0.14
+    },
+    {
+      "query": "파일 공유",
+      "title": "안전한 파일 공유 - 문서 및 링크 공유",
+      "link": "https://www.dropbox.com/ko/features/share",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.dropbox.com/ko/features/share",
+      "secs": 1.09
+    },
+    {
+      "query": "웹하드",
+      "title": "웹하드",
+      "link": "https://namu.wiki/w/%EC%9B%B9%ED%95%98%EB%93%9C",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9B%B9%ED%95%98%EB%93%9C",
+      "secs": 0.5
+    },
+    {
+      "query": "토렌트",
+      "title": "µTorrent (uTorrent) | 매우 작은 BitTorrent 클라이언트",
+      "link": "https://www.utorrent.com/ko/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "토렌트",
+      "title": "ELI5: 토렌트가 정확히 뭔데? : r/explainlikeimfive",
+      "link": "https://www.reddit.com/r/explainlikeimfive/comments/12585sv/eli5_what_exactly_is_torrenting/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/explainlikeimfive/comments/12585sv/eli5_what_exactly_is_torrenting/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "웹하드",
+      "title": "Only 웹하드",
+      "link": "https://play.google.com/store/apps/details/Only_%EC%9B%B9%ED%95%98%EB%93%9C?id=com.lgup.webhard.android&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details/Only_%EC%9B%B9%ED%95%98%EB%93%9C?id=com.lgup.webhard.android&hl=ko",
+      "secs": 0.43
+    },
+    {
+      "query": "토렌트",
+      "title": "Torrent Manager - Windows에서 무료 다운로드 및 설치",
+      "link": "https://apps.microsoft.com/detail/9n6f7h1r3djs?hl=ko-KR&gl=PS",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.microsoft.com/detail/9n6f7h1r3djs?hl=ko-KR&gl=PS",
+      "secs": 0.12
+    },
+    {
+      "query": "토렌트",
+      "title": "토렌트 다른 사이트 알려드릴께요ㅋㅋ 다양한 유틸도 있어요 ...",
+      "link": "https://dumok.net/repository/19817",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://dumok.net/repository/19817",
+      "secs": 0.17
+    },
+    {
+      "query": "프로그램 다운로드",
+      "title": "무료 소프트웨어 다운로드 사이트 BEST 5 (2025 최신판)",
+      "link": "https://yosepsujin.tistory.com/10930963",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://yosepsujin.tistory.com/10930963",
+      "secs": 1.11
+    },
+    {
+      "query": "자료 다운로드",
+      "title": "혜자스러운 자료 무료 다운 사이트 모음 - 블로그",
+      "link": "https://m.blog.naver.com/lbljm1023/221977786119",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/lbljm1023/221977786119",
+      "secs": 0.17
+    },
+    {
+      "query": "자료 다운로드",
+      "title": "놀라운 무료 이미지 - Pixabay",
+      "link": "https://pixabay.com/ko/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://pixabay.com/ko/",
+      "secs": 0.06
+    },
+    {
+      "query": "자료 다운로드",
+      "title": "Download All Files - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.hwkrbbt.downloadall&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.hwkrbbt.downloadall&hl=ko",
+      "secs": 0.43
+    },
+    {
+      "query": "프로그램 다운로드",
+      "title": "소프트웨어 다운로드 무료 - 윈도우 및 맥 프로그램",
+      "link": "https://www.nchsoftware.com/select/ko/index.html?srsltid=AU7gw4V57dM6i4gRO6pXPMictDrFl9f8f3VCleEERHgSUpaPaiyQ04cR",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.nchsoftware.com/select/ko/index.html?srsltid=AU7gw4V57dM6i4gRO6pXPMictDrFl9f8f3VCleEERHgSUpaPaiyQ04cR",
+      "secs": 1.14
+    },
+    {
+      "query": "무료 다운로드",
+      "title": "무료 영화 다운로드사이트 순위 (2026) - 무비쿠브",
+      "link": "https://kouve.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://kouve.kr/",
+      "secs": 2.08
+    },
+    {
+      "query": "웹하드",
+      "title": "웹하드 - 대용량 파일 공유·협업 기업 클라우드 서비스",
+      "link": "https://www.lguplus.com/biz/all/solution/collaboration/web-hd/B000000055",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.lguplus.com/biz/all/solution/collaboration/web-hd/B000000055",
+      "secs": 1.29
+    },
+    {
+      "query": "자료 다운로드",
+      "title": "클릭 한 번으로 수백 장 저장?! 이미지 대량 다운 프로그램 무료 ...",
+      "link": "https://www.youtube.com/watch?v=zX7lEe_vMDQ",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=zX7lEe_vMDQ",
+      "secs": 0.46
+    },
+    {
+      "query": "vpn",
+      "title": "Free VPN for Chrome - VPN Proxy VeePN - Chrome Web Store",
+      "link": "https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=en",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=en",
+      "secs": 0.66
+    },
+    {
+      "query": "자료 다운로드",
+      "title": "파일 다운로드하기 - Android - Google Chrome 고객센터",
+      "link": "https://support.google.com/chrome/answer/95759?hl=ko&co=GENIE.Platform%3DAndroid",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://support.google.com/chrome/answer/95759?hl=ko&co=GENIE.Platform%3DAndroid",
+      "secs": 0.93
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 다운로드",
+      "link": "https://nordvpn.com/ko/download/?srsltid=AU7gw4WGShkG-aLQDcyTChXutjvsBiYgtWiHmSrbPIPgfV632Rv3Z3Ii",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "vpn",
+      "title": "Secure VPN－Safer Internet - Apps on Google Play",
+      "link": "https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn&hl=en_US",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.fast.free.unblock.secure.vpn&hl=en_US",
+      "secs": 0.43
+    },
+    {
+      "query": "vpn",
+      "title": "VPN - Super Unlimited Proxy - App Store - Apple",
+      "link": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473",
+      "secs": 0.74
+    },
+    {
+      "query": "웹 vpn",
+      "title": "ProxySite.com - 무료 웹 프록시 사이트",
+      "link": "https://www.proxysite.com/ko/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.07
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 크롬용 - VPN 프록시 VeePN - Chrome 웹 스토어",
+      "link": "https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://chromewebstore.google.com/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno?hl=ko",
+      "secs": 0.44
+    },
+    {
+      "query": "웹 vpn",
+      "title": "웹사이트의 VPN 감지를 우회하는 가장 좋은 방법",
+      "link": "https://www.reddit.com/r/VPN/comments/xsk5bt/best_ways_to_bypass_vpn_detection_of_websites/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/VPN/comments/xsk5bt/best_ways_to_bypass_vpn_detection_of_websites/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "무료 vpn",
+      "title": "Free VPN Super™ -Fast & Secure - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=con.hotspot.vpn.free.master&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=con.hotspot.vpn.free.master&hl=ko",
+      "secs": 0.43
+    },
+    {
+      "query": "프록시",
+      "title": "무료 웹 프록시 및 최첨단 온라인 프록시",
+      "link": "https://www.croxyproxy.com/_ko/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.07
+    },
+    {
+      "query": "웹 vpn",
+      "title": "가장 안전한 무료 프록시 서버",
+      "link": "https://hide.me/ko/proxy",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.23
+    },
+    {
+      "query": "프록시",
+      "title": "프록시 (Proxy)란 무엇일까요? | 보안백과사전 | 콘텐츠",
+      "link": "https://www.officekeeper.co.kr/blog-type-dictionary/view/262",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.officekeeper.co.kr/blog-type-dictionary/view/262",
+      "secs": 0.17
+    },
+    {
+      "query": "파일 공유",
+      "title": "안전한 파일 공유: 무료 대용량 파일 전송",
+      "link": "https://mega.io/ko/share",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://mega.io/ko/share",
+      "secs": 2.99
+    },
+    {
+      "query": "프록시",
+      "title": "프록시 서버",
+      "link": "https://namu.wiki/w/%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%ED%94%84%EB%A1%9D%EC%8B%9C%20%EC%84%9C%EB%B2%84",
+      "secs": 0.51
+    },
+    {
+      "query": "웹 프록시",
+      "title": "특정 사이트용 웹 프록시 : r/unRAID",
+      "link": "https://www.reddit.com/r/unRAID/comments/17bvfsj/web_proxy_for_specific_sites/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/unRAID/comments/17bvfsj/web_proxy_for_specific_sites/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "웹 vpn",
+      "title": "VPN Proxy: Fast & Unlimited - Windows에서 무료 다운로드 ...",
+      "link": "https://apps.microsoft.com/detail/9pntscmcg01j?hl=ko-KR&gl=KR",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.microsoft.com/detail/9pntscmcg01j?hl=ko-KR&gl=KR",
+      "secs": 1.45
+    },
+    {
+      "query": "프록시",
+      "title": "프록시란 무엇인가요? 위협 보호",
+      "link": "https://www.skyhighsecurity.com/ko/cybersecurity-defined/what-are-proxies.html/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.skyhighsecurity.com/ko/cybersecurity-defined/what-are-proxies.html",
+      "secs": 0.96
+    },
+    {
+      "query": "프록시 사이트",
+      "title": "무료 프록시 사이트 및 온라인 우회사이트",
+      "link": "https://proxyorb.com/ko",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 0.59
+    },
+    {
+      "query": "프록시 사이트",
+      "title": "최고의 무료 웹 프록시 사이트",
+      "link": "https://free-proxy-list.net/ko/web-proxy.html",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 0.11
+    },
+    {
+      "query": "DNS 차단",
+      "title": "광고 차단에는 어떤 DNS가 제일 좋음?",
+      "link": "https://www.reddit.com/r/dns/comments/1srgzev/which_dns_is_best_for_ad_blocking/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/dns/comments/1srgzev/which_dns_is_best_for_ad_blocking/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "DNS 차단",
+      "title": "광고 차단 DNS 모음",
+      "link": "https://r1.community.samsung.com/t5/%EA%B8%B0%ED%83%80/%EA%B4%91%EA%B3%A0-%EC%B0%A8%EB%8B%A8-dns-%EB%AA%A8%EC%9D%8C/td-p/11943648",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://r1.community.samsung.com/t5/%EA%B8%B0%ED%83%80/%EA%B4%91%EA%B3%A0-%EC%B0%A8%EB%8B%A8-dns-%EB%AA%A8%EC%9D%8C/td-p/11943648",
+      "secs": 0.21
+    },
+    {
+      "query": "웹 프록시",
+      "title": "SmartProxy 프록시 사이트 - 어떤 웹사이트도 자유롭게",
+      "link": "https://www.smartproxy.kr/proxy-site/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.smartproxy.kr/proxy-site/",
+      "secs": 1.35
+    },
+    {
+      "query": "DNS 차단",
+      "title": "DNS 필터링 | 보안 DNS 서버",
+      "link": "https://www.cloudflare.com/ko-kr/learning/access-management/what-is-dns-filtering/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.cloudflare.com/ko-kr/learning/access-management/what-is-dns-filtering/",
+      "secs": 0.59
+    },
+    {
+      "query": "DNS 차단",
+      "title": "DNS 보호 | AdGuard 지식 창고",
+      "link": "https://adguard.com/kb/ko/adguard-for-android/features/protection/dns-protection/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://adguard.com/kb/ko/adguard-for-android/features/protection/dns-protection/",
+      "secs": 0.37
+    },
+    {
+      "query": "DNS 차단",
+      "title": "DNS",
+      "link": "https://namu.wiki/w/DNS",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/DNS",
+      "secs": 0.59
+    },
+    {
+      "query": "사이트 차단",
+      "title": "크롬에서 사이트 차단 어떻게 하나요? - 네이버 지식iN",
+      "link": "https://m.kin.naver.com/qna/dirs/13020201/docs/449583535",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.kin.naver.com/qna/dirs/13020201/docs/449583535",
+      "secs": 0.35
+    },
+    {
+      "query": "사이트 차단",
+      "title": "저작권 침해 불법사이트 긴급 접속 차단법",
+      "link": "https://namu.wiki/w/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%B9%A8%ED%95%B4%20%EB%B6%88%EB%B2%95%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B8%B4%EA%B8%89%20%EC%A0%91%EC%86%8D%20%EC%B0%A8%EB%8B%A8%EB%B2%95",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%A0%80%EC%9E%91%EA%B6%8C%20%EC%B9%A8%ED%95%B4%20%EB%B6%88%EB%B2%95%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EA%B8%B4%EA%B8%89%20%EC%A0%91%EC%86%8D%20%EC%B0%A8%EB%8B%A8%EB%B2%95",
+      "secs": 0.41
+    },
+    {
+      "query": "사이트 차단",
+      "title": "사이트 차단 및 집중 모드 - Chrome 웹 스토어",
+      "link": "https://chromewebstore.google.com/detail/block-site-site-blocker-f/dpfofggmkhdbfcciajfdphofclabnogo?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://chromewebstore.google.com/detail/block-site-site-blocker-f/dpfofggmkhdbfcciajfdphofclabnogo?hl=ko",
+      "secs": 0.61
+    },
+    {
+      "query": "사이트 차단",
+      "title": "웹 사이트 차단하는 3가지 간단한 방법 총정리",
+      "link": "https://postiveemblem.tistory.com/307",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://postiveemblem.tistory.com/307",
+      "secs": 0.59
+    },
+    {
+      "query": "차단 사이트",
+      "title": "유해 사이트",
+      "link": "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%20%EC%82%AC%EC%9D%B4%ED%8A%B8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%20%EC%82%AC%EC%9D%B4%ED%8A%B8",
+      "secs": 0.42
+    },
+    {
+      "query": "차단 사이트",
+      "title": "불법·유해정보사이트에 대한 차단 안내",
+      "link": "http://www.warning.or.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "http://www.warning.or.kr/",
+      "secs": 0.17
+    },
+    {
+      "query": "차단 사이트",
+      "title": "웹사이트 차단 원인 및 해제 방법",
+      "link": "https://www.youtube.com/watch?v=X9EzlpN70V0",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=X9EzlpN70V0",
+      "secs": 0.52
+    },
+    {
+      "query": "차단 사이트",
+      "title": "대한민국에서 차단된 웹사이트 목록",
+      "link": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%90%EC%84%9C_%EC%B0%A8%EB%8B%A8%EB%90%9C_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8_%EB%AA%A9%EB%A1%9D",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://ko.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%97%90%EC%84%9C_%EC%B0%A8%EB%8B%A8%EB%90%9C_%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8_%EB%AA%A9%EB%A1%9D",
+      "secs": 0.6
+    },
+    {
+      "query": "차단 페이지",
+      "title": "BlockSite: 블록 웹 사이트 & 유지 - Chrome 웹 스토어",
+      "link": "https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://chromewebstore.google.com/detail/blocksite-block-websites/eiimnmioipafcokbfikbljfdeojpcgbh?hl=ko",
+      "secs": 0.45
+    },
+    {
+      "query": "사이트 차단",
+      "title": "웹사이트 액세스 허용 또는 차단하기 - Chrome Enterprise ...",
+      "link": "https://support.google.com/chrome/a/answer/7532419?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://support.google.com/chrome/a/answer/7532419?hl=ko",
+      "secs": 1.54
+    },
+    {
+      "query": "학교 와이파이 차단",
+      "title": "학교 VPN 차단을 우회하려고 하는데",
+      "link": "https://www.reddit.com/r/VPN/comments/1pcuq1e/trying_to_bypass_schools_vpn_block/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/VPN/comments/1pcuq1e/trying_to_bypass_schools_vpn_block/?tl=ko",
+      "secs": 0.07
+    },
+    {
+      "query": "차단 페이지",
+      "title": "유해한 웹 사이트 차단 | Total | 최신 항목",
+      "link": "https://help.f-secure.com/product.html?home/total-mac/latest/ko/task_2D2B7443B9A94482B64630E42949EF68-latest-ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://help.f-secure.com/product.html?home/total-mac/latest/ko/task_2D2B7443B9A94482B64630E42949EF68-latest-ko",
+      "secs": 0.52
+    },
+    {
+      "query": "학교 와이파이 차단",
+      "title": "VPN으로 학교 와이파이 차단 해제",
+      "link": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4XULGHY7c0rm6j61AZedKExGE-BXDc4tcdurbuinpV17xOvNCOc",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "학교 와이파이 차단 페이지",
+      "title": "우리 학교 와이파이에서 극심한 웹사이트 제한을 어떻게 우회 ...",
+      "link": "https://www.reddit.com/r/LinusTechTips/comments/15px5c7/how_can_i_bypass_extreme_website_restrictions_in/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/LinusTechTips/comments/15px5c7/how_can_i_bypass_extreme_website_restrictions_in/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "학교 와이파이 차단",
+      "title": "학교 와이파이(WIFI) 컴퓨터에서 무료로 우회해 사용하는 방법 ...",
+      "link": "https://m.blog.naver.com/pmj6968/223384854101",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/pmj6968/223384854101",
+      "secs": 0.17
+    },
+    {
+      "query": "학교 와이파이 차단 페이지",
+      "title": "VPN으로 학교 와이파이 차단 해제",
+      "link": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4Uk5mUtHEiTj6unC8en7wMFcBFT3VTM_TaZafocp1PHmDJNV97Z",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "학교 와이파이 차단",
+      "title": "학교에서 와맆하는 법 - 와일드리프트 채널",
+      "link": "https://arca.live/b/wildrifts/91315561",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://arca.live/b/wildrifts/91315561",
+      "secs": 0.21
+    },
+    {
+      "query": "학교 인터넷 차단",
+      "title": "학교 인터넷 뚫는법(카카오톡, 롤 쌉가능) - SoftEther VPN",
+      "link": "https://blog.naver.com/jameschoie/222189184666",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/jameschoie/222189184666",
+      "secs": 0.08
+    },
+    {
+      "query": "학교 와이파이 차단 페이지",
+      "title": "학교 인터넷 차단 뚫는 법: VPN으로 쉽게 해결하는 방법 - 대우",
+      "link": "https://bloggerwiki.tistory.com/entry/%ED%95%99%EA%B5%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%B0%A8%EB%8B%A8-%EB%9A%AB%EB%8A%94-%EB%B2%95-VPN%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://bloggerwiki.tistory.com/entry/%ED%95%99%EA%B5%90-%EC%9D%B8%ED%84%B0%EB%84%B7-%EC%B0%A8%EB%8B%A8-%EB%9A%AB%EB%8A%94-%EB%B2%95-VPN%EC%9C%BC%EB%A1%9C-%EC%89%BD%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95",
+      "secs": 0.18
+    },
+    {
+      "query": "학교 사이트 차단",
+      "title": "개인 기기에서 차단된 사이트. : r/school",
+      "link": "https://www.reddit.com/r/school/comments/1i2wb7s/blocked_sites_on_personal_devices/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/school/comments/1i2wb7s/blocked_sites_on_personal_devices/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "학교 와이파이 차단",
+      "title": "학원 와이파이 앱차단 데드존 완벽 해결!",
+      "link": "https://www.youtube.com/watch?v=fTTPdscSkE8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=fTTPdscSkE8",
+      "secs": 0.34
+    },
+    {
+      "query": "학교 사이트 차단",
+      "title": "VPN으로 학교 와이파이 차단 해제",
+      "link": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4WZRuH6YxA3b5E9zlBLf9NdaqA7naCH58Ryr_DR1D14h3Izchwr",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "학교에서 막힌 사이트",
+      "title": "학교 크롬북에서 웹사이트 막힌 거 어떻게 풀어요? : r/VPN",
+      "link": "https://www.reddit.com/r/VPN/comments/11450n4/how_do_i_unblock_websites_on_my_school_chromebook/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/VPN/comments/11450n4/how_do_i_unblock_websites_on_my_school_chromebook/?tl=ko",
+      "secs": 0.07
+    },
+    {
+      "query": "학교에서 막힌 사이트",
+      "title": "학교에서 차단된 사이트 우회하는 법?",
+      "link": "https://proxyorb.com/ko/blog/school-unblock-websites-student-guide",
+      "status": "dns_error",
+      "code": null,
+      "error": "[Errno 11002] getaddrinfo failed",
+      "secs": 0.0
+    },
+    {
+      "query": "학교에서 막힌 사이트",
+      "title": "웹사이트 차단 우회하는 법 (VPN 사용 또는 미사용)",
+      "link": "https://www.top10vpn.com/ko/guides/how-to-unblock-websites-anywhere/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "학교 인터넷 차단",
+      "title": "VPN으로 학교 와이파이 차단 해제",
+      "link": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4WpoT-wm3LrR935nc9aXY-w7lFLHtt_Q0FlGDj2HTz7FETWWPIT",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.expressvpn.com/kr/vpn-service/school-vpn?srsltid=AU7gw4WpoT-wm3LrR935nc9aXY-w7lFLHtt_Q0FlGDj2HTz7FETWWPIT",
+      "secs": 0.45
+    },
+    {
+      "query": "학교 사이트 차단",
+      "title": "웹 사이트를 차단 해제하는 방법",
+      "link": "https://www.hotspotshield.com/ko/what-is-a-vpn/unblock-websites/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.35
+    },
+    {
+      "query": "학교 인터넷 차단",
+      "title": "학교 네트워크에서 특정 사이트 차단을 하려면 어떻게 해야 ...",
+      "link": "https://www.sharedit.co.kr/qnaboards/24080",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.sharedit.co.kr/qnaboards/24080",
+      "secs": 0.85
+    },
+    {
+      "query": "인터넷 필터링",
+      "title": "콘텐츠 필터링이란? 콘텐츠 필터의 정의 및 유형 | 포티넷",
+      "link": "https://www.fortinet.com/kr/resources/cyberglossary/content-filtering",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.fortinet.com/kr/resources/cyberglossary/content-filtering",
+      "secs": 0.45
+    },
+    {
+      "query": "인터넷 필터링",
+      "title": "필터링",
+      "link": "https://namu.wiki/w/%ED%95%84%ED%84%B0%EB%A7%81",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%ED%95%84%ED%84%B0%EB%A7%81",
+      "secs": 0.63
+    },
+    {
+      "query": "인터넷 필터링",
+      "title": "URL 필터링이란? | 웹 필터링",
+      "link": "https://www.cloudflare.com/ko-kr/learning/access-management/what-is-url-filtering/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.cloudflare.com/ko-kr/learning/access-management/what-is-url-filtering/",
+      "secs": 0.57
+    },
+    {
+      "query": "인터넷 필터링",
+      "title": "인터넷 필터링 - 위키백과, 우리 모두의 백과사전",
+      "link": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%95%84%ED%84%B0%EB%A7%81",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://ko.wikipedia.org/wiki/%EC%9D%B8%ED%84%B0%EB%84%B7_%ED%95%84%ED%84%B0%EB%A7%81",
+      "secs": 0.89
+    },
+    {
+      "query": "웹 필터링",
+      "title": "웹 필터링 솔루션 뭐 쓰세요? : r/PFSENSE",
+      "link": "https://www.reddit.com/r/PFSENSE/comments/14o1cl8/web_filtering_solutions_do_u_use/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/PFSENSE/comments/14o1cl8/web_filtering_solutions_do_u_use/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "웹 필터링",
+      "title": "웹 필터링이란? - 체크 포인트 소프트웨어",
+      "link": "https://www.checkpoint.com/kr/cyber-hub/threat-prevention/what-is-web-filtering/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.checkpoint.com/kr/cyber-hub/threat-prevention/what-is-web-filtering/",
+      "secs": 0.99
+    },
+    {
+      "query": "인터넷 필터링",
+      "title": "URL 필터링 서비스 개요 | Cloud Next Generation Firewall",
+      "link": "https://docs.cloud.google.com/firewall/docs/about-url-filtering?hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://docs.cloud.google.com/firewall/docs/about-url-filtering?hl=ko",
+      "secs": 1.11
+    },
+    {
+      "query": "유해 사이트 차단",
+      "title": "[유해사이트 차단 기술이 필요한 이유①] 연재를 시작하며",
+      "link": "https://blog.naver.com/best_somansa/221387870938",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/best_somansa/221387870938",
+      "secs": 0.07
+    },
+    {
+      "query": "유해 사이트 차단 프로그램",
+      "title": "청소년 유해사이트 차단프로그램 설치활성화 캠페인 - 공지 ...",
+      "link": "https://www.nipa.kr/home/2-1/15",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.nipa.kr/home/2-1/15",
+      "secs": 0.18
+    },
+    {
+      "query": "유해 사이트 차단 프로그램",
+      "title": "컴퓨터에 무료로 깔 수 있는 청소년 유해차단 프로그램",
+      "link": "https://m.blog.naver.com/insang0305/222083743585",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/insang0305/222083743585",
+      "secs": 0.13
+    },
+    {
+      "query": "유해 사이트 차단 프로그램",
+      "title": "그린가드: 인터넷 유해차단 솔루션",
+      "link": "https://green.geto.co.kr/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
+      "secs": 0.05
+    },
+    {
+      "query": "무료 음악",
+      "title": "280000개 이상 로열티 없는 음악 트랙 다운로드",
+      "link": "https://pixabay.com/ko/music/",
+      "status": "http_4xx",
+      "code": 403,
+      "final_url": "https://pixabay.com/ko/music/",
+      "secs": 0.06
+    },
+    {
+      "query": "유해 사이트 차단",
+      "title": "청소년 인터넷 안전망 그린 i-net",
+      "link": "https://www.greeninet.or.kr/PI_FILTERING/jsp2/download/software.jsp",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.greeninet.or.kr/PI_FILTERING/jsp2/download/software.jsp",
+      "secs": 0.6
+    },
+    {
+      "query": "유해 사이트 차단 프로그램",
+      "title": "유해매체 필터링 소프트웨어",
+      "link": "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%EB%A7%A4%EC%B2%B4%20%ED%95%84%ED%84%B0%EB%A7%81%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%9C%A0%ED%95%B4%EB%A7%A4%EC%B2%B4%20%ED%95%84%ED%84%B0%EB%A7%81%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4",
+      "secs": 0.45
+    },
+    {
+      "query": "웹 필터링",
+      "title": "WEBFILTER | 개인정보 및 데이터 필터링 솔루션 | 지란지교소프트",
+      "link": "https://www.jirandata.co.kr/products/webfilter",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.jirandata.co.kr/products/webfilter",
+      "secs": 1.37
+    },
+    {
+      "query": "무료 음악",
+      "title": "유용하게 써먹는 고퀄리티 저작권 무료 음악 사이트 TOP 6!",
+      "link": "https://m.blog.naver.com/pjd2081/221802170532",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/pjd2081/221802170532",
+      "secs": 0.17
+    },
+    {
+      "query": "무료 음악",
+      "title": "배경음악 다운받기 | BGM 사이트 뮤팟",
+      "link": "https://www.mewpot.com/search/song",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.mewpot.com/search/song",
+      "secs": 0.34
+    },
+    {
+      "query": "무료 음악",
+      "title": "무료음악 -최신음악다운 무료다운 뮤직시티",
+      "link": "https://play.google.com/store/apps/details?id=com.intermedia.musiccity&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.intermedia.musiccity&hl=ko",
+      "secs": 0.43
+    },
+    {
+      "query": "무료 음악",
+      "title": "무료음악",
+      "link": "https://www.youtube.com/hashtag/%EB%AC%B4%EB%A3%8C%EC%9D%8C%EC%95%85",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/hashtag/%EB%AC%B4%EB%A3%8C%EC%9D%8C%EC%95%85",
+      "secs": 0.46
+    },
+    {
+      "query": "음악 듣기",
+      "title": "하루종일 틀어놓기 좋은 감성팝 (중간광고 없음) | 24시간 Cafe ...",
+      "link": "https://www.youtube.com/watch?v=yx7QlKMU324",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=yx7QlKMU324",
+      "secs": 0.38
+    },
+    {
+      "query": "음악 듣기",
+      "title": "하루종일 틀어놓기 좋은 감성 발라드 (중간광고 없음) | 카페음악 ...",
+      "link": "https://www.youtube.com/watch?v=s3LWWMeoURw",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=s3LWWMeoURw",
+      "secs": 0.34
+    },
+    {
+      "query": "음악 스트리밍",
+      "title": "지금 최고의 음악 스트리밍 서비스는 뭔가요? : r/MusicaBR",
+      "link": "https://www.reddit.com/r/MusicaBR/comments/1k3yrqb/qual_o_melhor_streaming_de_m%C3%BAsica_do_momento/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/MusicaBR/comments/1k3yrqb/qual_o_melhor_streaming_de_m%C3%BAsica_do_momento/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "음악 듣기",
+      "title": "[playlist] 8:00AM  아침에 듣기 좋은 노래 모음 굿모닝 ...",
+      "link": "https://www.youtube.com/watch?v=WD5D-Amm9zw",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=WD5D-Amm9zw",
+      "secs": 0.35
+    },
+    {
+      "query": "음악 스트리밍",
+      "title": "2026 음악 스트리밍 가격 비교, 추천 앱은?",
+      "link": "https://blog.naver.com/rlawnstn119/224221261727",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/rlawnstn119/224221261727",
+      "secs": 0.08
+    },
+    {
+      "query": "음악 듣기",
+      "title": "[playlist]비오는 날 듣기 좋은 음악 | 일할때 조용히 듣기 좋은 ...",
+      "link": "https://www.youtube.com/watch?v=dr4o6H09L0k",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=dr4o6H09L0k",
+      "secs": 0.5
+    },
+    {
+      "query": "음악 스트리밍",
+      "title": "아직도 멜론 써?...음악 스트리밍 어플 7군데 집중 비교",
+      "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=28193",
+      "status": "ok",
+      "code": 200,
+      "final_url": "http://www.financialreview.co.kr/news/articleView.html?idxno=28193",
+      "secs": 0.15
+    },
+    {
+      "query": "무료 BGM",
+      "title": "[영상Tip] BGM 저작권 무료 음원 다운 사이트 정리!",
+      "link": "https://blog.naver.com/vegetable_hee/224192606322",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/vegetable_hee/224192606322",
+      "secs": 0.06
+    },
+    {
+      "query": "음악 스트리밍",
+      "title": "스트리밍",
+      "link": "https://namu.wiki/w/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EC%8A%A4%ED%8A%B8%EB%A6%AC%EB%B0%8D",
+      "secs": 0.47
+    },
+    {
+      "query": "음악 듣기",
+      "title": "‎Apple Music - 웹 플레이어",
+      "link": "https://music.apple.com/kr/new",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://music.apple.com/kr/new",
+      "secs": 0.88
+    },
+    {
+      "query": "음악 스트리밍",
+      "title": "\"요즘 누가 멜론 써요?\" 1위 뺏겨버린 국민 음악 앱 멜론 근황 ...",
+      "link": "https://www.youtube.com/watch?v=gTowa1-q1C8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=gTowa1-q1C8",
+      "secs": 0.5
+    },
+    {
+      "query": "스팀 게임",
+      "title": "Steam에 오신 것을 환영합니다",
+      "link": "https://store.steampowered.com/?l=koreana",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "스팀 게임",
+      "title": "최고 인기 게임",
+      "link": "https://store.steampowered.com/charts/topselling/US?l=koreana",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "무료 게임",
+      "title": "가장 인기 있는 무료 게임 | Microsoft Store",
+      "link": "https://www.microsoft.com/ko-kr/store/top-free/games/pc?skipitems=360",
+      "status": "http_4xx",
+      "code": 404,
+      "final_url": "https://www.microsoft.com/library/errorpages/smarterror.aspx?correlationId=$(cvToken)",
+      "secs": 16.69
+    },
+    {
+      "query": "스팀 게임",
+      "title": "게임",
+      "link": "https://store.steampowered.com/games/?l=koreana",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://store.steampowered.com/games/?l=koreana",
+      "secs": 0.44
+    },
+    {
+      "query": "로블록스",
+      "title": "로블록스 - Roblox",
+      "link": "https://www.roblox.com/ko",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.06
+    },
+    {
+      "query": "무료 만화",
+      "title": "최신만화 - 일일툰 일본만화 무료만화 무료웹툰 무료애니",
+      "link": "http://103.204.13.68:8905/bbs/board.php?bo_table=toon_c&type=upd&tablename=%EC%B5%9C%EC%8B%A0%EB%A7%8C%ED%99%94",
+      "status": "timeout",
+      "code": null,
+      "secs": 15.0
+    },
+    {
+      "query": "스팀 게임",
+      "title": "스팀싱글게임 추천 22개 | 전부 직접 해본 후기O l 1인용 l 여자 ...",
+      "link": "https://m.blog.naver.com/wjdwjd7856/223355711561",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/wjdwjd7856/223355711561",
+      "secs": 0.3
+    },
+    {
+      "query": "스팀 게임",
+      "title": "스팀 유저들이 개쩌는 극찬을 남긴 최고의 게임들!! 스팀 압도적 ...",
+      "link": "https://www.youtube.com/watch?v=kFGEeUAjDoY",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=kFGEeUAjDoY",
+      "secs": 0.5
+    },
+    {
+      "query": "로블록스",
+      "title": "Roblox - Windows - Windows에서 무료로 다운로드 및 플레이",
+      "link": "https://apps.microsoft.com/detail/9pmf91n3lz3m?hl=ko-KR&gl=NA",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://apps.microsoft.com/detail/9pmf91n3lz3m?hl=ko-KR&gl=NA",
+      "secs": 0.08
+    },
+    {
+      "query": "무료 영화",
+      "title": "드라마 예능 영화 다시보기 I 온디맨드코리아",
+      "link": "https://www.ondemandkorea.com/",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 16.6
+    },
+    {
+      "query": "로블록스",
+      "title": "소개",
+      "link": "https://about.roblox.com/ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://about.roblox.com/ko",
+      "secs": 0.45
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Minecraft 공식 사이트에 오신 것을 환영합니다",
+      "link": "https://www.minecraft.net/ko-kr",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.minecraft.net/ko-kr",
+      "secs": 0.24
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Welcome to the Minecraft Official Site | Minecraft",
+      "link": "https://www.minecraft.net/",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "마인크래프트",
+      "title": "Sign In or Sign Up",
+      "link": "https://www.minecraft.net/en-us/msaprofile",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.02
+    },
+    {
+      "query": "로블록스",
+      "title": "Roblox",
+      "link": "https://namu.wiki/w/Roblox",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/Roblox",
+      "secs": 0.5
+    },
+    {
+      "query": "마인크래프트",
+      "title": "마인크래프트 게임",
+      "link": "https://www.crazygames.com/kr/t/minecraft",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)",
+      "secs": 0.04
+    },
+    {
+      "query": "로블록스",
+      "title": "로블록스 (Roblox) - Google Play 앱",
+      "link": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://play.google.com/store/apps/details?id=com.roblox.client&hl=ko",
+      "secs": 0.44
+    },
+    {
+      "query": "게임 아이템 거래",
+      "title": "바로템 | 계정·게임머니·아이템·상품권 거래",
+      "link": "https://www.barotem.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.barotem.com/",
+      "secs": 0.14
+    },
+    {
+      "query": "게임 아이템 거래",
+      "title": "아이템을 현금거래 하는 것이 불법인가요 | 피해구제 사례",
+      "link": "https://www.consumer.go.kr/user/ftc/consumer/dmgerlifcase/115/selectDmgeRlifCaseView.do?dmgeRlifCaseSn=2046&page=27&row=25&searchType=&searchCnd=&searchWrd=",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
+      "secs": 0.11
+    },
+    {
+      "query": "게임 아이템 거래",
+      "title": "아이템베이 - 게임머니·아이템·계정 시세·안전거래",
+      "link": "https://www.itembay.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.itembay.com/",
+      "secs": 0.27
+    },
+    {
+      "query": "게임 아이템 거래",
+      "title": "아이템매니아 - 게임 아이템·계정·게임머니 거래 및 시세",
+      "link": "https://www.itemmania.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.itemmania.com/",
+      "secs": 0.35
+    },
+    {
+      "query": "게임 계정 거래",
+      "title": "아이디팜 - 계정·게임머니·아이템·상품권 거래소 NO.1",
+      "link": "https://idfarm.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://idfarm.co.kr/",
+      "secs": 0.16
+    },
+    {
+      "query": "게임 계정 거래",
+      "title": "저팔계 - 계정 거래 사이트",
+      "link": "https://www.jeo8gye.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.jeo8gye.com/",
+      "secs": 0.23
+    },
+    {
+      "query": "마인크래프트",
+      "title": "마인크래프트",
+      "link": "https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%81%AC%EB%9E%98%ED%94%84%ED%8A%B8",
+      "secs": 0.74
+    },
+    {
+      "query": "무료 인강",
+      "title": "EBSi 국가대표 고교강의",
+      "link": "https://www.ebsi.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.ebsi.co.kr/",
+      "secs": 0.08
+    },
+    {
+      "query": "게시판 사이트",
+      "title": "온라인 게시판 웹사이트 템플릿 | 커뮤니티",
+      "link": "https://ko.wix.com/website/templates/html/communities/online-forum",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.05
+    },
+    {
+      "query": "게임 계정 거래",
+      "title": "게임계정 판매와 구매는 불법인가요? 처벌은 어떻게 되나요?",
+      "link": "https://www.a-ha.io/questions/49b2ca02cdf5c5969f7328c6a2ad74a6",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.a-ha.io/questions/49b2ca02cdf5c5969f7328c6a2ad74a6",
+      "secs": 0.26
+    },
+    {
+      "query": "무료 인강",
+      "title": "무료 인강 사이트 BEST 12 소개",
+      "link": "https://blog.naver.com/ride_daegu/224165922685",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://blog.naver.com/ride_daegu/224165922685",
+      "secs": 0.07
+    },
+    {
+      "query": "무료 BGM",
+      "title": "무료 BGM | BGM(배경음악) 사이트 ...",
+      "link": "https://www.sellbuymusic.com/search/freebgm",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://sellbuymusic.com/ko/search/freebgm",
+      "secs": 1.84
+    },
+    {
+      "query": "무료 인강",
+      "title": "5일 무료 체험",
+      "link": "https://www.unistudy.co.kr/freeCourseZone?srsltid=AU7gw4VsCsf7YYTVh0F8R54YdEXenvkhN2zP8lVgnEGvJ71u-mtENt8l",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.unistudy.co.kr/freeCourseZone?srsltid=AU7gw4VsCsf7YYTVh0F8R54YdEXenvkhN2zP8lVgnEGvJ71u-mtENt8l",
+      "secs": 0.1
+    },
+    {
+      "query": "코딩 사이트",
+      "title": "코딩 연습하기 젤 좋은 웹사이트! : r/learnprogramming",
+      "link": "https://www.reddit.com/r/learnprogramming/comments/1eo6vcm/best_website_to_practice_coding/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/learnprogramming/comments/1eo6vcm/best_website_to_practice_coding/?tl=ko",
+      "secs": 0.05
+    },
+    {
+      "query": "코딩 사이트",
+      "title": "무료 온라인 코딩 사이트 Coding Ground - Hello World!",
+      "link": "https://idevsigner.tistory.com/15",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://idevsigner.tistory.com/15",
+      "secs": 0.16
+    },
+    {
+      "query": "코딩 사이트",
+      "title": "코딩테스트 연습",
+      "link": "https://school.programmers.co.kr/learn/challenges",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://school.programmers.co.kr/learn/challenges",
+      "secs": 0.13
+    },
+    {
+      "query": "코딩 사이트",
+      "title": "유용한 코딩 사이트 추천 BEST 5 - 탐색 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/codeitofficial/223399499327",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/codeitofficial/223399499327",
+      "secs": 0.15
+    },
+    {
+      "query": "온라인 코딩",
+      "title": "온라인 코딩파티",
+      "link": "https://www.software.kr/home/kor/contents.do?menuPos=95",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.software.kr/home/kor/contents.do?menuPos=95",
+      "secs": 0.14
+    },
+    {
+      "query": "무료 BGM",
+      "title": "BGM President | 브금대통령",
+      "link": "https://www.bgmpresident.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.bgmpresident.com/",
+      "secs": 2.05
+    },
+    {
+      "query": "온라인 코딩",
+      "title": "SW중심사회 [응원릴레이]",
+      "link": "https://www.software.kr/home/kor/contents.do?menuPos=92",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.software.kr/home/kor/contents.do?menuPos=92",
+      "secs": 0.09
+    },
+    {
+      "query": "무료 인강",
+      "title": "무료인강",
+      "link": "https://www.youtube.com/@brounedu",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/@brounedu",
+      "secs": 0.34
+    },
+    {
+      "query": "무료 인강",
+      "title": "EBS 중학프리미엄",
+      "link": "https://mid.ebs.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://mid.ebs.co.kr/premium/middle/index",
+      "secs": 0.59
+    },
+    {
+      "query": "온라인 코딩",
+      "title": "온라인 SW 코딩 교실",
+      "link": "https://www.bgswcoding.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.bgswcoding.co.kr/",
+      "secs": 0.21
+    },
+    {
+      "query": "게임 아이템 거래",
+      "title": "로켓아이템땡스 - 게임머니 거래소",
+      "link": "https://www.itemthankyou.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.itemthankyou.com/main/main.asp",
+      "secs": 1.07
+    },
+    {
+      "query": "AI 공부",
+      "title": "AI 공부를 완전 초보로 시작하려면 어떻게 해야 할까요? 어떤 ...",
+      "link": "https://www.reddit.com/r/PromptEngineering/comments/1ogeoxy/how_should_i_start_learning_ai_as_a_complete/?tl=ko",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.reddit.com/r/PromptEngineering/comments/1ogeoxy/how_should_i_start_learning_ai_as_a_complete/?tl=ko",
+      "secs": 0.06
+    },
+    {
+      "query": "수학 문제 사이트",
+      "title": "[정보 공유] 초등수학 무료출력 사이트 추천 - 탐색 : 네이버 블로그",
+      "link": "https://m.blog.naver.com/rainbow71619/223795811639",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/rainbow71619/223795811639",
+      "secs": 0.17
+    },
+    {
+      "query": "AI 공부",
+      "title": "유니브 AI - 시험공부 10분만에 해결 | 국내 1위 AI 학습 플랫폼",
+      "link": "https://univai.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://univai.co.kr/",
+      "secs": 0.2
+    },
+    {
+      "query": "코딩 사이트",
+      "title": "온라인 C 컴파일러",
+      "link": "https://www.mycompiler.io/ko/online-c-compiler",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.mycompiler.io/ko/online-c-compiler",
+      "secs": 0.65
+    },
+    {
+      "query": "수학 문제 사이트",
+      "title": "모두매쓰",
+      "link": "https://www.modoo-math.com/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.modoo-math.com/",
+      "secs": 0.46
+    },
+    {
+      "query": "vpn",
+      "title": "What is a VPN?",
+      "link": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-vpn",
+      "secs": 10.71
+    },
+    {
+      "query": "AI 공부",
+      "title": "16. AI 공부, 이렇게만 하면 됩니다.",
+      "link": "https://www.jobgreegi.com/newsletter/?bmode=view&idx=141815567",
+      "status": "ssl_error",
+      "code": null,
+      "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)",
+      "secs": 0.24
+    },
+    {
+      "query": "수학 문제 사이트",
+      "title": "EBSMath",
+      "link": "https://www.ebsmath.co.kr/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.ebsmath.co.kr/",
+      "secs": 0.53
+    },
+    {
+      "query": "AI 공부",
+      "title": "[AI-06] 인공지능 학습(AI 공부) 순서(Road map) - 네이버 블로그",
+      "link": "https://m.blog.naver.com/snova84/223243178935?referrerCode=1",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://m.blog.naver.com/snova84/223243178935?referrerCode=1",
+      "secs": 0.31
+    },
+    {
+      "query": "AI 공부",
+      "title": "[선데이 라이브] 많은 분들이 기다리신 2026 AI 공부순서 공개",
+      "link": "https://www.youtube.com/watch?v=3l9FoKjI1sM",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.youtube.com/watch?v=3l9FoKjI1sM",
+      "secs": 0.44
+    },
+    {
+      "query": "게시판 사이트",
+      "title": "웹사이트 제작 플랫폼 - 망보드 스토어",
+      "link": "https://mangboard.com/?srsltid=AU7gw4V-bRdWgIeWdj5O-QGybqKkXCmCESjdV_w-mnwpmi23kFjboDgV",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 16.08
+    },
+    {
+      "query": "수학 문제 사이트",
+      "title": "무제한 무료 내신 기출문제 사이트",
+      "link": "https://www.pascal.education/main/",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://www.pascal.education/main/",
+      "secs": 0.97
+    },
+    {
+      "query": "수학 문제 사이트",
+      "title": "[초1 수학] 1부터 9까지의 수: 줄 서기 문제(순서수)로 전체 개수 ...",
+      "link": "https://modoo-math.tistory.com/337",
+      "status": "ok",
+      "code": 200,
+      "final_url": "https://modoo-math.tistory.com/337",
+      "secs": 1.16
+    },
+    {
+      "query": "무료 다운로드",
+      "title": "무료 VPN 다운로드 — 안전하고 빠른 Proton VPN | 노로그 ...",
+      "link": "https://protonvpn.com/ko/free-vpn/download?srsltid=AU7gw4VzQRuz_WHLITBluXzdIzDdGM78caFdw3K-ejqzz6UHSK0rqf6K",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.49
+    },
+    {
+      "query": "토렌트",
+      "title": "추천 토렌트 사이트 순위를 공유합니다 (ver.2026.9.11)",
+      "link": "https://jaewook.net/archives/2613",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.01
+    },
+    {
+      "query": "vpn",
+      "title": "The best VPN for speed and security",
+      "link": "https://protonvpn.com/?srsltid=AU7gw4UBysCrId_USaud7dFLW9ojgEIRhaiZ6rE7fY4kFvOs495tFhru",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.01
+    },
+    {
+      "query": "무료 vpn",
+      "title": "무료 VPN 다운로드 — 안전하고 빠른 Proton VPN | 노로그 ...",
+      "link": "https://protonvpn.com/ko/free-vpn/download?srsltid=AU7gw4Wq9Mhjaviwxv8efAgpADv30CGG0XAMhDVmELMA7eWc609YmCVh",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.0
+    },
+    {
+      "query": "무료 vpn",
+      "title": "광고 및 속도 제한 없는 무료 VPN 추천",
+      "link": "https://protonvpn.com/ko/free-vpn?srsltid=AU7gw4UUlPsVVqSfINAJdbqeAZ4bW_zMeLl6NgnaOu2InbD-LNB2C0aa",
+      "status": "timeout",
+      "code": null,
+      "error": "_ssl.c:1064: The handshake operation timed out",
+      "secs": 15.02
+    }
+  ]
+}
